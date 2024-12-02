@@ -1,0 +1,4580 @@
+Part 1: 220
+
+
+Processing : [1, 3, 4, 5, 8, 10, 7]
+Found change violation: [10, 7]
+
+
+Processing : [48, 51, 54, 55, 55]
+Found Max difference violation: [55, 55]
+
+
+Processing : [7, 9, 12, 15, 16, 17, 20, 24]
+Found Max difference violation: [20, 24]
+
+
+Processing : [49, 52, 55, 57, 58, 60, 65]
+Found Max difference violation: [60, 65]
+
+
+Processing : [73, 75, 77, 80, 81, 78, 81, 82]
+Found change violation: [81, 78]
+
+
+Processing : [83, 84, 87, 85, 86, 84]
+Found change violation: [87, 85]
+Found change violation: [86, 84]
+
+
+Processing : [76, 77, 80, 79, 80, 80]
+Found change violation: [80, 79]
+Found Max difference violation: [80, 80]
+
+
+Processing : [25, 27, 28, 29, 28, 30, 34]
+Found change violation: [29, 28]
+Found Max difference violation: [30, 34]
+
+
+Processing : [21, 23, 26, 28, 26, 27, 34]
+Found change violation: [28, 26]
+Found Max difference violation: [27, 34]
+
+
+Processing : [71, 72, 72, 73, 74, 75, 77, 80]
+Found Max difference violation: [72, 72]
+
+
+Processing : [31, 33, 36, 36, 38, 40, 39]
+Found Max difference violation: [36, 36]
+Found change violation: [40, 39]
+
+
+Processing : [11, 14, 17, 17, 17]
+Found Max difference violation: [17, 17]
+Found Max difference violation: [17, 17]
+
+
+Processing : [43, 45, 45, 48, 52]
+Found Max difference violation: [45, 45]
+Found Max difference violation: [48, 52]
+
+
+Processing : [54, 57, 58, 59, 61, 62, 62, 68]
+Found Max difference violation: [62, 62]
+Found Max difference violation: [62, 68]
+
+
+Processing : [47, 50, 53, 57, 60, 63, 66]
+Found Breaking Violation: [53, 57]
+
+
+Processing : [46, 47, 48, 52, 53, 52]
+Found Breaking Violation: [48, 52]
+
+
+Processing : [89, 91, 94, 98, 98]
+Found Breaking Violation: [94, 98]
+
+
+Processing : [56, 59, 62, 64, 66, 70, 74]
+Found Breaking Violation: [66, 70]
+
+
+Processing : [50, 52, 53, 57, 60, 61, 68]
+Found Breaking Violation: [53, 57]
+
+
+Processing : [72, 74, 75, 78, 84, 86, 89, 90]
+Found Breaking Violation: [78, 84]
+
+
+Processing : [47, 49, 56, 57, 60, 59]
+Found Breaking Violation: [49, 56]
+
+
+Processing : [63, 64, 67, 69, 70, 75, 77, 77]
+Found Breaking Violation: [70, 75]
+
+
+Processing : [59, 62, 63, 65, 68, 75, 79]
+Found Breaking Violation: [68, 75]
+
+
+Processing : [75, 77, 79, 85, 92]
+Found Breaking Violation: [79, 85]
+
+
+Processing : [9, 8, 11, 12, 15, 17, 19]
+Found change violation: [8, 11]
+
+
+Processing : [32, 30, 32, 35, 32]
+Found change violation: [30, 32]
+Found change violation: [35, 32]
+
+
+Processing : [43, 40, 42, 43, 46, 46]
+Found change violation: [40, 42]
+Found Max difference violation: [46, 46]
+
+
+Processing : [7, 5, 8, 11, 12, 13, 16, 20]
+Found change violation: [5, 8]
+Found Max difference violation: [16, 20]
+
+
+Processing : [78, 77, 78, 79, 82, 85, 88, 95]
+Found change violation: [77, 78]
+Found Max difference violation: [88, 95]
+
+
+Processing : [76, 74, 75, 72, 75, 77, 78, 80]
+Found change violation: [74, 75]
+Found change violation: [72, 75]
+
+
+Processing : [31, 30, 32, 34, 32, 34, 35, 34]
+Found change violation: [30, 32]
+Found change violation: [34, 32]
+Found change violation: [35, 34]
+
+
+Processing : [16, 14, 13, 16, 17, 19, 21, 21]
+Found change violation: [13, 16]
+Found Max difference violation: [21, 21]
+
+
+Processing : [83, 80, 82, 80, 83, 87]
+Found change violation: [80, 82]
+Found change violation: [80, 83]
+Found Max difference violation: [83, 87]
+
+
+Processing : [48, 45, 48, 51, 50, 53, 59]
+Found change violation: [45, 48]
+Found change violation: [51, 50]
+Found Max difference violation: [53, 59]
+
+
+Processing : [4, 2, 2, 5, 8, 11]
+Found Max difference violation: [2, 2]
+
+
+Processing : [58, 55, 57, 60, 60, 59]
+Found change violation: [55, 57]
+Found Max difference violation: [60, 60]
+
+
+Processing : [65, 64, 65, 67, 67, 68, 69, 69]
+Found change violation: [64, 65]
+Found Max difference violation: [67, 67]
+Found Max difference violation: [69, 69]
+
+
+Processing : [24, 21, 22, 24, 24, 25, 29]
+Found change violation: [21, 22]
+Found Max difference violation: [24, 24]
+Found Max difference violation: [25, 29]
+
+
+Processing : [21, 20, 20, 22, 23, 29]
+Found Max difference violation: [20, 20]
+Found Max difference violation: [23, 29]
+
+
+Processing : [48, 46, 48, 50, 51, 52, 56, 59]
+Found change violation: [46, 48]
+Found Breaking Violation: [52, 56]
+
+
+Processing : [58, 57, 58, 60, 62, 66, 64]
+Found change violation: [57, 58]
+Found Breaking Violation: [62, 66]
+
+
+Processing : [71, 70, 74, 77, 80, 80]
+Found Breaking Violation: [70, 74]
+
+
+Processing : [63, 61, 62, 66, 68, 72]
+Found change violation: [61, 62]
+Found Breaking Violation: [62, 66]
+
+
+Processing : [49, 48, 50, 53, 54, 58, 63]
+Found change violation: [48, 50]
+Found Breaking Violation: [54, 58]
+
+
+Processing : [4, 2, 3, 10, 13, 14]
+Found change violation: [2, 3]
+Found Breaking Violation: [3, 10]
+
+
+Processing : [56, 54, 57, 58, 64, 61]
+Found change violation: [54, 57]
+Found Breaking Violation: [58, 64]
+
+
+Processing : [8, 6, 11, 14, 15, 15]
+Found Breaking Violation: [6, 11]
+
+
+Processing : [24, 23, 26, 31, 33, 37]
+Found change violation: [23, 26]
+Found Breaking Violation: [26, 31]
+
+
+Processing : [27, 24, 26, 31, 36]
+Found change violation: [24, 26]
+Found Breaking Violation: [26, 31]
+
+
+Processing : [80, 80, 82, 85, 88, 89]
+Found Max difference violation: [80, 80]
+
+
+Processing : [17, 17, 20, 21, 23, 25, 23]
+Found Max difference violation: [17, 17]
+Found change violation: [25, 23]
+
+
+Processing : [46, 46, 49, 52, 55, 56, 58, 58]
+Found Max difference violation: [46, 46]
+Found Max difference violation: [58, 58]
+
+
+Processing : [14, 14, 17, 18, 20, 23, 24, 28]
+Found Max difference violation: [14, 14]
+Found Max difference violation: [24, 28]
+
+
+Processing : [11, 11, 14, 17, 20, 23, 29]
+Found Max difference violation: [11, 11]
+Found Max difference violation: [23, 29]
+
+
+Processing : [27, 27, 26, 27, 30, 31, 34, 35]
+Found Max difference violation: [27, 27]
+Found change violation: [26, 27]
+
+
+Processing : [81, 81, 84, 82, 85, 82]
+Found Max difference violation: [81, 81]
+Found change violation: [84, 82]
+Found change violation: [85, 82]
+
+
+Processing : [69, 69, 70, 72, 70, 71, 71]
+Found Max difference violation: [69, 69]
+Found change violation: [72, 70]
+Found Max difference violation: [71, 71]
+
+
+Processing : [30, 30, 29, 32, 36]
+Found Max difference violation: [30, 30]
+Found change violation: [29, 32]
+Found Max difference violation: [32, 36]
+
+
+Processing : [1, 1, 4, 1, 3, 5, 12]
+Found Max difference violation: [1, 1]
+Found change violation: [4, 1]
+Found Max difference violation: [5, 12]
+
+
+Processing : [71, 71, 72, 73, 76, 77, 77, 79]
+Found Max difference violation: [71, 71]
+Found Max difference violation: [77, 77]
+
+
+Processing : [66, 66, 67, 70, 73, 73, 71]
+Found Max difference violation: [66, 66]
+Found Max difference violation: [73, 73]
+
+
+Processing : [83, 83, 85, 86, 86, 86]
+Found Max difference violation: [83, 83]
+Found Max difference violation: [86, 86]
+Found Max difference violation: [86, 86]
+
+
+Processing : [84, 84, 87, 88, 88, 89, 91, 95]
+Found Max difference violation: [84, 84]
+Found Max difference violation: [88, 88]
+Found Max difference violation: [91, 95]
+
+
+Processing : [27, 27, 30, 30, 33, 36, 43]
+Found Max difference violation: [27, 27]
+Found Max difference violation: [30, 30]
+Found Max difference violation: [36, 43]
+
+
+Processing : [36, 36, 37, 38, 41, 45, 48]
+Found Max difference violation: [36, 36]
+Found Breaking Violation: [41, 45]
+
+
+Processing : [85, 85, 87, 91, 89]
+Found Max difference violation: [85, 85]
+Found Breaking Violation: [87, 91]
+
+
+Processing : [18, 18, 20, 22, 26, 26]
+Found Max difference violation: [18, 18]
+Found Breaking Violation: [22, 26]
+
+
+Processing : [57, 57, 60, 64, 68]
+Found Max difference violation: [57, 57]
+Found Breaking Violation: [60, 64]
+
+
+Processing : [34, 34, 37, 41, 47]
+Found Max difference violation: [34, 34]
+Found Breaking Violation: [37, 41]
+
+
+Processing : [76, 76, 83, 84, 86, 89, 90, 92]
+Found Max difference violation: [76, 76]
+Found Breaking Violation: [76, 83]
+
+
+Processing : [16, 16, 18, 25, 28, 30, 29]
+Found Max difference violation: [16, 16]
+Found Breaking Violation: [18, 25]
+
+
+Processing : [43, 43, 48, 49, 50, 50]
+Found Max difference violation: [43, 43]
+Found Breaking Violation: [43, 48]
+
+
+Processing : [56, 56, 59, 60, 66, 68, 71, 75]
+Found Max difference violation: [56, 56]
+Found Breaking Violation: [60, 66]
+
+
+Processing : [25, 25, 27, 32, 35, 42]
+Found Max difference violation: [25, 25]
+Found Breaking Violation: [27, 32]
+
+
+Processing : [18, 22, 23, 25, 26]
+Found Max difference violation: [18, 22]
+
+
+Processing : [67, 71, 73, 74, 75, 76, 78, 77]
+Found Max difference violation: [67, 71]
+Found change violation: [78, 77]
+
+
+Processing : [28, 32, 34, 37, 37]
+Found Max difference violation: [28, 32]
+Found Max difference violation: [37, 37]
+
+
+Processing : [77, 81, 82, 84, 87, 90, 91, 95]
+Found Max difference violation: [77, 81]
+Found Max difference violation: [91, 95]
+
+
+Processing : [40, 44, 47, 48, 53]
+Found Max difference violation: [40, 44]
+Found Max difference violation: [48, 53]
+
+
+Processing : [88, 92, 90, 92, 93, 96]
+Found Max difference violation: [88, 92]
+Found change violation: [92, 90]
+
+
+Processing : [80, 84, 86, 89, 91, 90, 93, 92]
+Found Max difference violation: [80, 84]
+Found change violation: [91, 90]
+Found change violation: [93, 92]
+
+
+Processing : [63, 67, 66, 67, 70, 70]
+Found Max difference violation: [63, 67]
+Found change violation: [67, 66]
+Found Max difference violation: [70, 70]
+
+
+Processing : [81, 85, 87, 84, 88]
+Found Max difference violation: [81, 85]
+Found change violation: [87, 84]
+Found Max difference violation: [84, 88]
+
+
+Processing : [61, 65, 62, 64, 65, 70]
+Found Max difference violation: [61, 65]
+Found change violation: [65, 62]
+Found Max difference violation: [65, 70]
+
+
+Processing : [61, 65, 66, 67, 70, 70, 71, 74]
+Found Max difference violation: [61, 65]
+Found Max difference violation: [70, 70]
+
+
+Processing : [34, 38, 38, 39, 42, 43, 41]
+Found Max difference violation: [34, 38]
+Found Max difference violation: [38, 38]
+Found change violation: [43, 41]
+
+
+Processing : [88, 92, 94, 96, 96, 97, 97]
+Found Max difference violation: [88, 92]
+Found Max difference violation: [96, 96]
+Found Max difference violation: [97, 97]
+
+
+Processing : [6, 10, 10, 13, 14, 15, 17, 21]
+Found Max difference violation: [6, 10]
+Found Max difference violation: [10, 10]
+Found Max difference violation: [17, 21]
+
+
+Processing : [28, 32, 32, 34, 37, 42]
+Found Max difference violation: [28, 32]
+Found Max difference violation: [32, 32]
+Found Max difference violation: [37, 42]
+
+
+Processing : [5, 9, 13, 16, 19, 22]
+Found Max difference violation: [5, 9]
+Found Breaking Violation: [9, 13]
+
+
+Processing : [64, 68, 71, 75, 73]
+Found Max difference violation: [64, 68]
+Found Breaking Violation: [71, 75]
+
+
+Processing : [7, 11, 14, 15, 19, 19]
+Found Max difference violation: [7, 11]
+Found Breaking Violation: [15, 19]
+
+
+Processing : [79, 83, 84, 85, 89, 91, 95]
+Found Max difference violation: [79, 83]
+Found Breaking Violation: [85, 89]
+
+
+Processing : [11, 15, 17, 21, 23, 30]
+Found Max difference violation: [11, 15]
+Found Breaking Violation: [17, 21]
+
+
+Processing : [2, 6, 9, 11, 12, 17, 20]
+Found Max difference violation: [2, 6]
+Found Breaking Violation: [12, 17]
+
+
+Processing : [32, 36, 37, 39, 44, 46, 45]
+Found Max difference violation: [32, 36]
+Found Breaking Violation: [39, 44]
+
+
+Processing : [43, 47, 54, 55, 55]
+Found Max difference violation: [43, 47]
+Found Breaking Violation: [47, 54]
+
+
+Processing : [8, 12, 15, 22, 25, 26, 30]
+Found Max difference violation: [8, 12]
+Found Breaking Violation: [15, 22]
+
+
+Processing : [64, 68, 70, 75, 76, 83]
+Found Max difference violation: [64, 68]
+Found Breaking Violation: [70, 75]
+
+
+Processing : [52, 59, 60, 61, 62]
+Found Max difference violation: [52, 59]
+
+
+Processing : [67, 72, 73, 74, 76, 77, 78, 77]
+Found Max difference violation: [67, 72]
+Found change violation: [78, 77]
+
+
+Processing : [74, 81, 82, 83, 84, 86, 86]
+Found Max difference violation: [74, 81]
+Found Max difference violation: [86, 86]
+
+
+Processing : [84, 89, 90, 91, 92, 93, 95, 99]
+Found Max difference violation: [84, 89]
+Found Max difference violation: [95, 99]
+
+
+Processing : [46, 53, 56, 57, 64]
+Found Max difference violation: [46, 53]
+Found Max difference violation: [57, 64]
+
+
+Processing : [26, 33, 34, 32, 34]
+Found Max difference violation: [26, 33]
+Found change violation: [34, 32]
+
+
+Processing : [1, 8, 7, 9, 12, 14, 17, 16]
+Found Max difference violation: [1, 8]
+Found change violation: [8, 7]
+Found change violation: [17, 16]
+
+
+Processing : [88, 95, 97, 94, 95, 97, 98, 98]
+Found Max difference violation: [88, 95]
+Found change violation: [97, 94]
+Found Max difference violation: [98, 98]
+
+
+Processing : [49, 56, 57, 55, 59]
+Found Max difference violation: [49, 56]
+Found change violation: [57, 55]
+Found Max difference violation: [55, 59]
+
+
+Processing : [28, 34, 35, 36, 38, 36, 42]
+Found Max difference violation: [28, 34]
+Found change violation: [38, 36]
+Found Max difference violation: [36, 42]
+
+
+Processing : [20, 26, 26, 28, 31]
+Found Max difference violation: [20, 26]
+Found Max difference violation: [26, 26]
+
+
+Processing : [61, 67, 67, 70, 71, 68]
+Found Max difference violation: [61, 67]
+Found Max difference violation: [67, 67]
+Found change violation: [71, 68]
+
+
+Processing : [56, 63, 63, 64, 66, 66]
+Found Max difference violation: [56, 63]
+Found Max difference violation: [63, 63]
+Found Max difference violation: [66, 66]
+
+
+Processing : [47, 53, 55, 55, 59]
+Found Max difference violation: [47, 53]
+Found Max difference violation: [55, 55]
+Found Max difference violation: [55, 59]
+
+
+Processing : [59, 64, 67, 70, 72, 72, 77]
+Found Max difference violation: [59, 64]
+Found Max difference violation: [72, 72]
+Found Max difference violation: [72, 77]
+
+
+Processing : [15, 20, 24, 27, 28, 31, 32]
+Found Max difference violation: [15, 20]
+Found Breaking Violation: [20, 24]
+
+
+Processing : [50, 57, 61, 62, 64, 61]
+Found Max difference violation: [50, 57]
+Found Breaking Violation: [57, 61]
+
+
+Processing : [78, 83, 84, 88, 89, 89]
+Found Max difference violation: [78, 83]
+Found Breaking Violation: [84, 88]
+
+
+Processing : [34, 39, 41, 45, 48, 52]
+Found Max difference violation: [34, 39]
+Found Breaking Violation: [41, 45]
+
+
+Processing : [27, 33, 37, 38, 39, 40, 42, 49]
+Found Max difference violation: [27, 33]
+Found Breaking Violation: [33, 37]
+
+
+Processing : [22, 28, 30, 31, 36, 37]
+Found Max difference violation: [22, 28]
+Found Breaking Violation: [31, 36]
+
+
+Processing : [41, 48, 51, 54, 55, 60, 61, 60]
+Found Max difference violation: [41, 48]
+Found Breaking Violation: [55, 60]
+
+
+Processing : [74, 80, 81, 84, 90, 90]
+Found Max difference violation: [74, 80]
+Found Breaking Violation: [84, 90]
+
+
+Processing : [65, 72, 73, 80, 82, 83, 87]
+Found Max difference violation: [65, 72]
+Found Breaking Violation: [73, 80]
+
+
+Processing : [50, 57, 62, 64, 71]
+Found Max difference violation: [50, 57]
+Found Breaking Violation: [57, 62]
+
+
+Processing : [53, 52, 51, 49, 48, 50]
+Found change violation: [48, 50]
+
+
+Processing : [40, 38, 37, 36, 34, 32, 32]
+Found Max difference violation: [32, 32]
+
+
+Processing : [37, 35, 34, 31, 30, 29, 27, 23]
+Found Max difference violation: [27, 23]
+
+
+Processing : [85, 82, 79, 76, 75, 74, 72, 66]
+Found Max difference violation: [72, 66]
+
+
+Processing : [70, 68, 65, 64, 62, 59, 60, 58]
+Found change violation: [59, 60]
+
+
+Processing : [59, 57, 55, 52, 50, 53, 52, 55]
+Found change violation: [50, 53]
+Found change violation: [52, 55]
+
+
+Processing : [8, 6, 5, 7, 7]
+Found change violation: [5, 7]
+Found Max difference violation: [7, 7]
+
+
+Processing : [88, 87, 85, 86, 82]
+Found change violation: [85, 86]
+Found Max difference violation: [86, 82]
+
+
+Processing : [99, 97, 95, 94, 97, 94, 92, 86]
+Found change violation: [94, 97]
+Found Max difference violation: [92, 86]
+
+
+Processing : [33, 31, 31, 29, 28]
+Found Max difference violation: [31, 31]
+
+
+Processing : [60, 59, 57, 57, 56, 54, 57]
+Found Max difference violation: [57, 57]
+Found change violation: [54, 57]
+
+
+Processing : [82, 79, 79, 76, 74, 71, 71]
+Found Max difference violation: [79, 79]
+Found Max difference violation: [71, 71]
+
+
+Processing : [82, 80, 80, 79, 77, 73]
+Found Max difference violation: [80, 80]
+Found Max difference violation: [77, 73]
+
+
+Processing : [61, 58, 57, 57, 51]
+Found Max difference violation: [57, 57]
+Found Max difference violation: [57, 51]
+
+
+Processing : [19, 16, 12, 10, 7, 6]
+Found Breaking Violation: [16, 12]
+
+
+Processing : [46, 45, 43, 40, 36, 37]
+Found Breaking Violation: [40, 36]
+
+
+Processing : [79, 77, 73, 71, 71]
+Found Breaking Violation: [77, 73]
+
+
+Processing : [26, 25, 24, 20, 16]
+Found Breaking Violation: [24, 20]
+
+
+Processing : [37, 35, 31, 30, 25]
+Found Breaking Violation: [35, 31]
+
+
+Processing : [63, 60, 59, 54, 52, 51, 49, 47]
+Found Breaking Violation: [59, 54]
+
+
+Processing : [69, 67, 61, 60, 63]
+Found Breaking Violation: [67, 61]
+
+
+Processing : [92, 91, 86, 84, 84]
+Found Breaking Violation: [91, 86]
+
+
+Processing : [48, 47, 46, 43, 42, 35, 33, 29]
+Found Breaking Violation: [42, 35]
+
+
+Processing : [82, 80, 79, 77, 70, 69, 68, 61]
+Found Breaking Violation: [77, 70]
+
+
+Processing : [47, 50, 48, 45, 42, 39, 38]
+Found change violation: [50, 48]
+
+
+Processing : [29, 32, 30, 29, 26, 29]
+Found change violation: [32, 30]
+Found change violation: [26, 29]
+
+
+Processing : [28, 29, 26, 23, 21, 18, 15, 15]
+Found change violation: [29, 26]
+Found Max difference violation: [15, 15]
+
+
+Processing : [90, 91, 88, 87, 84, 83, 79]
+Found change violation: [91, 88]
+Found Max difference violation: [83, 79]
+
+
+Processing : [30, 33, 30, 27, 26, 23, 16]
+Found change violation: [33, 30]
+Found Max difference violation: [23, 16]
+
+
+Processing : [76, 78, 77, 76, 74, 75, 74, 71]
+Found change violation: [78, 77]
+Found change violation: [74, 75]
+
+
+Processing : [29, 30, 28, 27, 30, 31]
+Found change violation: [30, 28]
+Found change violation: [27, 30]
+
+
+Processing : [67, 70, 67, 68, 66, 66]
+Found change violation: [70, 67]
+Found change violation: [68, 66]
+Found Max difference violation: [66, 66]
+
+
+Processing : [84, 86, 85, 86, 84, 80]
+Found change violation: [86, 85]
+Found change violation: [86, 84]
+Found Max difference violation: [84, 80]
+
+
+Processing : [29, 30, 29, 28, 31, 26]
+Found change violation: [30, 29]
+Found change violation: [28, 31]
+Found Max difference violation: [31, 26]
+
+
+Processing : [82, 84, 81, 81, 79, 76, 74]
+Found change violation: [84, 81]
+Found Max difference violation: [81, 81]
+
+
+Processing : [54, 56, 56, 55, 58]
+Found Max difference violation: [56, 56]
+Found change violation: [55, 58]
+
+
+Processing : [83, 86, 86, 84, 82, 80, 78, 78]
+Found Max difference violation: [86, 86]
+Found Max difference violation: [78, 78]
+
+
+Processing : [27, 28, 28, 26, 24, 20]
+Found Max difference violation: [28, 28]
+Found Max difference violation: [24, 20]
+
+
+Processing : [52, 53, 50, 49, 49, 46, 45, 40]
+Found change violation: [53, 50]
+Found Max difference violation: [49, 49]
+Found Max difference violation: [45, 40]
+
+
+Processing : [30, 33, 31, 30, 29, 25, 24]
+Found change violation: [33, 31]
+Found Breaking Violation: [29, 25]
+
+
+Processing : [65, 68, 65, 61, 58, 60]
+Found change violation: [68, 65]
+Found Breaking Violation: [65, 61]
+
+
+Processing : [61, 64, 60, 57, 55, 52, 52]
+Found Breaking Violation: [64, 60]
+
+
+Processing : [57, 60, 59, 56, 54, 50, 46]
+Found change violation: [60, 59]
+Found Breaking Violation: [54, 50]
+
+
+Processing : [75, 76, 75, 71, 64]
+Found change violation: [76, 75]
+Found Breaking Violation: [75, 71]
+
+
+Processing : [33, 36, 33, 32, 26, 24]
+Found change violation: [36, 33]
+Found Breaking Violation: [32, 26]
+
+
+Processing : [18, 19, 13, 12, 10, 13]
+Found Breaking Violation: [19, 13]
+
+
+Processing : [78, 80, 73, 71, 69, 67, 67]
+Found Breaking Violation: [80, 73]
+
+
+Processing : [24, 26, 24, 18, 15, 11]
+Found change violation: [26, 24]
+Found Breaking Violation: [24, 18]
+
+
+Processing : [19, 21, 18, 16, 15, 10, 4]
+Found change violation: [21, 18]
+Found Breaking Violation: [15, 10]
+
+
+Processing : [21, 21, 18, 17, 16]
+Found Max difference violation: [21, 21]
+
+
+Processing : [47, 47, 45, 44, 47]
+Found Max difference violation: [47, 47]
+Found change violation: [44, 47]
+
+
+Processing : [24, 24, 22, 21, 21]
+Found Max difference violation: [24, 24]
+Found Max difference violation: [21, 21]
+
+
+Processing : [58, 58, 57, 54, 51, 49, 45]
+Found Max difference violation: [58, 58]
+Found Max difference violation: [49, 45]
+
+
+Processing : [62, 62, 61, 59, 57, 56, 50]
+Found Max difference violation: [62, 62]
+Found Max difference violation: [56, 50]
+
+
+Processing : [61, 61, 59, 60, 58, 55, 52, 49]
+Found Max difference violation: [61, 61]
+Found change violation: [59, 60]
+
+
+Processing : [41, 41, 39, 36, 34, 36, 34, 35]
+Found Max difference violation: [41, 41]
+Found change violation: [34, 36]
+Found change violation: [34, 35]
+
+
+Processing : [77, 77, 79, 78, 78]
+Found Max difference violation: [77, 77]
+Found change violation: [79, 78]
+Found Max difference violation: [78, 78]
+
+
+Processing : [20, 20, 19, 20, 16]
+Found Max difference violation: [20, 20]
+Found change violation: [19, 20]
+Found Max difference violation: [20, 16]
+
+
+Processing : [44, 44, 41, 38, 41, 35]
+Found Max difference violation: [44, 44]
+Found change violation: [38, 41]
+Found Max difference violation: [41, 35]
+
+
+Processing : [92, 92, 92, 90, 87, 86, 84]
+Found Max difference violation: [92, 92]
+Found Max difference violation: [92, 92]
+
+
+Processing : [31, 31, 31, 29, 26, 24, 23, 26]
+Found Max difference violation: [31, 31]
+Found Max difference violation: [31, 31]
+Found change violation: [23, 26]
+
+
+Processing : [16, 16, 15, 15, 14, 12, 12]
+Found Max difference violation: [16, 16]
+Found Max difference violation: [15, 15]
+Found Max difference violation: [12, 12]
+
+
+Processing : [78, 78, 78, 76, 72]
+Found Max difference violation: [78, 78]
+Found Max difference violation: [78, 78]
+Found Max difference violation: [76, 72]
+
+
+Processing : [73, 73, 72, 72, 67]
+Found Max difference violation: [73, 73]
+Found Max difference violation: [72, 72]
+Found Max difference violation: [72, 67]
+
+
+Processing : [90, 90, 88, 87, 85, 81, 80, 79]
+Found Max difference violation: [90, 90]
+Found Breaking Violation: [85, 81]
+
+
+Processing : [20, 20, 19, 16, 12, 13]
+Found Max difference violation: [20, 20]
+Found Breaking Violation: [16, 12]
+
+
+Processing : [62, 62, 58, 55, 52, 52]
+Found Max difference violation: [62, 62]
+Found Breaking Violation: [62, 58]
+
+
+Processing : [99, 99, 95, 92, 91, 89, 87, 83]
+Found Max difference violation: [99, 99]
+Found Breaking Violation: [99, 95]
+
+
+Processing : [80, 80, 76, 75, 74, 67]
+Found Max difference violation: [80, 80]
+Found Breaking Violation: [80, 76]
+
+
+Processing : [88, 88, 81, 79, 78, 77, 74]
+Found Max difference violation: [88, 88]
+Found Breaking Violation: [88, 81]
+
+
+Processing : [53, 53, 46, 44, 46]
+Found Max difference violation: [53, 53]
+Found Breaking Violation: [53, 46]
+
+
+Processing : [91, 91, 84, 81, 79, 76, 76]
+Found Max difference violation: [91, 91]
+Found Breaking Violation: [91, 84]
+
+
+Processing : [29, 29, 22, 20, 19, 16, 13, 9]
+Found Max difference violation: [29, 29]
+Found Breaking Violation: [29, 22]
+
+
+Processing : [80, 80, 79, 74, 73, 68]
+Found Max difference violation: [80, 80]
+Found Breaking Violation: [79, 74]
+
+
+Processing : [81, 77, 76, 75, 74, 71]
+Found Max difference violation: [81, 77]
+
+
+Processing : [20, 16, 13, 11, 10, 9, 12]
+Found Max difference violation: [20, 16]
+Found change violation: [9, 12]
+
+
+Processing : [40, 36, 33, 32, 31, 28, 28]
+Found Max difference violation: [40, 36]
+Found Max difference violation: [28, 28]
+
+
+Processing : [75, 71, 70, 67, 63]
+Found Max difference violation: [75, 71]
+Found Max difference violation: [67, 63]
+
+
+Processing : [62, 58, 55, 53, 46]
+Found Max difference violation: [62, 58]
+Found Max difference violation: [53, 46]
+
+
+Processing : [50, 46, 47, 44, 42, 39]
+Found Max difference violation: [50, 46]
+Found change violation: [46, 47]
+
+
+Processing : [50, 46, 43, 45, 44, 46]
+Found Max difference violation: [50, 46]
+Found change violation: [43, 45]
+Found change violation: [44, 46]
+
+
+Processing : [82, 78, 76, 78, 77, 77]
+Found Max difference violation: [82, 78]
+Found change violation: [76, 78]
+Found Max difference violation: [77, 77]
+
+
+Processing : [55, 51, 50, 49, 47, 44, 45, 41]
+Found Max difference violation: [55, 51]
+Found change violation: [44, 45]
+Found Max difference violation: [45, 41]
+
+
+Processing : [31, 27, 26, 23, 20, 23, 16]
+Found Max difference violation: [31, 27]
+Found change violation: [20, 23]
+Found Max difference violation: [23, 16]
+
+
+Processing : [25, 21, 21, 20, 17, 14]
+Found Max difference violation: [25, 21]
+Found Max difference violation: [21, 21]
+
+
+Processing : [93, 89, 87, 87, 84, 87]
+Found Max difference violation: [93, 89]
+Found Max difference violation: [87, 87]
+Found change violation: [84, 87]
+
+
+Processing : [10, 6, 4, 4, 4]
+Found Max difference violation: [10, 6]
+Found Max difference violation: [4, 4]
+Found Max difference violation: [4, 4]
+
+
+Processing : [22, 18, 16, 16, 14, 10]
+Found Max difference violation: [22, 18]
+Found Max difference violation: [16, 16]
+Found Max difference violation: [14, 10]
+
+
+Processing : [40, 36, 34, 32, 32, 30, 24]
+Found Max difference violation: [40, 36]
+Found Max difference violation: [32, 32]
+Found Max difference violation: [30, 24]
+
+
+Processing : [32, 28, 25, 22, 20, 16, 13]
+Found Max difference violation: [32, 28]
+Found Breaking Violation: [20, 16]
+
+
+Processing : [24, 20, 19, 18, 14, 13, 10, 13]
+Found Max difference violation: [24, 20]
+Found Breaking Violation: [18, 14]
+
+
+Processing : [99, 95, 92, 89, 87, 85, 81, 81]
+Found Max difference violation: [99, 95]
+Found Breaking Violation: [85, 81]
+
+
+Processing : [71, 67, 65, 61, 57]
+Found Max difference violation: [71, 67]
+Found Breaking Violation: [65, 61]
+
+
+Processing : [45, 41, 37, 35, 33, 31, 29, 23]
+Found Max difference violation: [45, 41]
+Found Breaking Violation: [41, 37]
+
+
+Processing : [49, 45, 38, 35, 33, 32, 29]
+Found Max difference violation: [49, 45]
+Found Breaking Violation: [45, 38]
+
+
+Processing : [98, 94, 92, 90, 84, 85]
+Found Max difference violation: [98, 94]
+Found Breaking Violation: [90, 84]
+
+
+Processing : [72, 68, 63, 61, 58, 55, 55]
+Found Max difference violation: [72, 68]
+Found Breaking Violation: [68, 63]
+
+
+Processing : [92, 88, 82, 80, 79, 75]
+Found Max difference violation: [92, 88]
+Found Breaking Violation: [88, 82]
+
+
+Processing : [94, 90, 85, 82, 80, 78, 75, 69]
+Found Max difference violation: [94, 90]
+Found Breaking Violation: [90, 85]
+
+
+Processing : [18, 13, 12, 9, 7, 6]
+Found Max difference violation: [18, 13]
+
+
+Processing : [47, 41, 39, 37, 35, 34, 31, 33]
+Found Max difference violation: [47, 41]
+Found change violation: [31, 33]
+
+
+Processing : [49, 44, 41, 38, 35, 32, 29, 29]
+Found Max difference violation: [49, 44]
+Found Max difference violation: [29, 29]
+
+
+Processing : [38, 33, 30, 27, 23]
+Found Max difference violation: [38, 33]
+Found Max difference violation: [27, 23]
+
+
+Processing : [79, 73, 71, 68, 67, 64, 57]
+Found Max difference violation: [79, 73]
+Found Max difference violation: [64, 57]
+
+
+Processing : [66, 60, 59, 58, 57, 59, 57, 55]
+Found Max difference violation: [66, 60]
+Found change violation: [57, 59]
+
+
+Processing : [21, 14, 11, 9, 8, 5, 8, 11]
+Found Max difference violation: [21, 14]
+Found change violation: [5, 8]
+
+
+Processing : [54, 49, 46, 48, 45, 44, 44]
+Found Max difference violation: [54, 49]
+Found change violation: [46, 48]
+Found Max difference violation: [44, 44]
+
+
+Processing : [41, 34, 32, 34, 32, 31, 27]
+Found Max difference violation: [41, 34]
+Found change violation: [32, 34]
+Found Max difference violation: [31, 27]
+
+
+Processing : [69, 63, 64, 62, 61, 55]
+Found Max difference violation: [69, 63]
+Found change violation: [63, 64]
+Found Max difference violation: [61, 55]
+
+
+Processing : [32, 26, 26, 23, 20, 17, 15, 14]
+Found Max difference violation: [32, 26]
+Found Max difference violation: [26, 26]
+
+
+Processing : [20, 15, 12, 12, 10, 13]
+Found Max difference violation: [20, 15]
+Found Max difference violation: [12, 12]
+Found change violation: [10, 13]
+
+
+Processing : [88, 83, 82, 80, 78, 75, 75, 75]
+Found Max difference violation: [88, 83]
+Found Max difference violation: [75, 75]
+Found Max difference violation: [75, 75]
+
+
+Processing : [94, 89, 88, 88, 86, 82]
+Found Max difference violation: [94, 89]
+Found Max difference violation: [88, 88]
+Found Max difference violation: [86, 82]
+
+
+Processing : [52, 46, 45, 44, 44, 38]
+Found Max difference violation: [52, 46]
+Found Max difference violation: [44, 44]
+Found Max difference violation: [44, 38]
+
+
+Processing : [17, 12, 10, 6, 5]
+Found Max difference violation: [17, 12]
+Found Breaking Violation: [10, 6]
+
+
+Processing : [61, 56, 54, 52, 48, 49]
+Found Max difference violation: [61, 56]
+Found Breaking Violation: [52, 48]
+
+
+Processing : [77, 71, 70, 67, 64, 60, 60]
+Found Max difference violation: [77, 71]
+Found Breaking Violation: [64, 60]
+
+
+Processing : [62, 57, 55, 52, 48, 47, 46, 42]
+Found Max difference violation: [62, 57]
+Found Breaking Violation: [52, 48]
+
+
+Processing : [57, 52, 48, 46, 45, 40]
+Found Max difference violation: [57, 52]
+Found Breaking Violation: [52, 48]
+
+
+Processing : [97, 92, 90, 87, 81, 80, 79]
+Found Max difference violation: [97, 92]
+Found Breaking Violation: [87, 81]
+
+
+Processing : [24, 17, 14, 8, 9]
+Found Max difference violation: [24, 17]
+Found Breaking Violation: [14, 8]
+
+
+Processing : [76, 70, 67, 62, 62]
+Found Max difference violation: [76, 70]
+Found Breaking Violation: [67, 62]
+
+
+Processing : [81, 76, 73, 66, 63, 62, 58]
+Found Max difference violation: [81, 76]
+Found Breaking Violation: [73, 66]
+
+
+Processing : [98, 92, 89, 84, 82, 76]
+Found Max difference violation: [98, 92]
+Found Breaking Violation: [89, 84]
+
+
+Processing : [92, 94, 97, 98, 96]
+Found change violation: [98, 96]
+
+
+Processing : [52, 53, 55, 56, 59, 61, 62, 62]
+Found Max difference violation: [62, 62]
+
+
+Processing : [28, 31, 34, 35, 36, 40]
+Found Max difference violation: [36, 40]
+
+
+Processing : [23, 26, 28, 31, 38]
+Found Max difference violation: [31, 38]
+
+
+Processing : [88, 91, 90, 91, 93]
+Found change violation: [91, 90]
+
+
+Processing : [64, 66, 67, 64, 67, 65]
+Found change violation: [67, 64]
+Found change violation: [67, 65]
+
+
+Processing : [80, 81, 83, 81, 84, 84]
+Found change violation: [83, 81]
+Found Max difference violation: [84, 84]
+
+
+Processing : [88, 90, 91, 89, 93]
+Found change violation: [91, 89]
+Found Max difference violation: [89, 93]
+
+
+Processing : [69, 72, 74, 76, 73, 74, 80]
+Found change violation: [76, 73]
+Found Max difference violation: [74, 80]
+
+
+Processing : [9, 11, 13, 13, 15, 17, 18]
+Found Max difference violation: [13, 13]
+
+
+Processing : [80, 82, 82, 84, 86, 83]
+Found Max difference violation: [82, 82]
+Found change violation: [86, 83]
+
+
+Processing : [15, 17, 17, 19, 20, 21, 24, 24]
+Found Max difference violation: [17, 17]
+Found Max difference violation: [24, 24]
+
+
+Processing : [69, 72, 75, 75, 78, 80, 83, 87]
+Found Max difference violation: [75, 75]
+Found Max difference violation: [83, 87]
+
+
+Processing : [69, 71, 72, 75, 77, 77, 80, 85]
+Found Max difference violation: [77, 77]
+Found Max difference violation: [80, 85]
+
+
+Processing : [2, 5, 7, 8, 12, 15]
+Found Breaking Violation: [8, 12]
+
+
+Processing : [73, 75, 78, 82, 81]
+Found Breaking Violation: [78, 82]
+
+
+Processing : [15, 16, 20, 22, 24, 26, 27, 27]
+Found Breaking Violation: [16, 20]
+
+
+Processing : [38, 39, 42, 43, 44, 48, 52]
+Found Breaking Violation: [44, 48]
+
+
+Processing : [48, 49, 51, 53, 57, 60, 61, 68]
+Found Breaking Violation: [53, 57]
+
+
+Processing : [39, 40, 42, 44, 50, 51, 52]
+Found Breaking Violation: [44, 50]
+
+
+Processing : [53, 55, 61, 64, 61]
+Found Breaking Violation: [55, 61]
+
+
+Processing : [87, 89, 95, 98, 99, 99]
+Found Breaking Violation: [89, 95]
+
+
+Processing : [29, 32, 34, 40, 43, 46, 49, 53]
+Found Breaking Violation: [34, 40]
+
+
+Processing : [1, 2, 8, 9, 12, 15, 21]
+Found Breaking Violation: [2, 8]
+
+
+Processing : [88, 87, 88, 90, 91]
+Found change violation: [87, 88]
+
+
+Processing : [63, 61, 64, 66, 68, 65]
+Found change violation: [61, 64]
+Found change violation: [68, 65]
+
+
+Processing : [36, 33, 35, 38, 41, 41]
+Found change violation: [33, 35]
+Found Max difference violation: [41, 41]
+
+
+Processing : [19, 18, 21, 23, 25, 27, 28, 32]
+Found change violation: [18, 21]
+Found Max difference violation: [28, 32]
+
+
+Processing : [72, 70, 71, 74, 75, 78, 80, 87]
+Found change violation: [70, 71]
+Found Max difference violation: [80, 87]
+
+
+Processing : [25, 24, 27, 24, 25, 28]
+Found change violation: [24, 27]
+Found change violation: [24, 25]
+
+
+Processing : [8, 6, 3, 6, 7, 9, 11, 10]
+Found change violation: [3, 6]
+Found change violation: [11, 10]
+
+
+Processing : [30, 29, 27, 28, 29, 32, 32]
+Found change violation: [27, 28]
+Found Max difference violation: [32, 32]
+
+
+Processing : [97, 94, 91, 92, 96]
+Found change violation: [91, 92]
+Found Max difference violation: [92, 96]
+
+
+Processing : [75, 74, 71, 72, 78]
+Found change violation: [71, 72]
+Found Max difference violation: [72, 78]
+
+
+Processing : [34, 32, 33, 34, 34, 36, 38, 40]
+Found change violation: [32, 33]
+Found Max difference violation: [34, 34]
+
+
+Processing : [75, 73, 73, 74, 73]
+Found Max difference violation: [73, 73]
+Found change violation: [74, 73]
+
+
+Processing : [77, 75, 76, 79, 79, 80, 80]
+Found change violation: [75, 76]
+Found Max difference violation: [79, 79]
+Found Max difference violation: [80, 80]
+
+
+Processing : [52, 50, 50, 53, 54, 58]
+Found Max difference violation: [50, 50]
+Found Max difference violation: [54, 58]
+
+
+Processing : [77, 74, 76, 76, 78, 79, 81, 88]
+Found change violation: [74, 76]
+Found Max difference violation: [76, 76]
+Found Max difference violation: [81, 88]
+
+
+Processing : [84, 83, 85, 89, 91]
+Found change violation: [83, 85]
+Found Breaking Violation: [85, 89]
+
+
+Processing : [61, 60, 62, 65, 69, 70, 69]
+Found change violation: [60, 62]
+Found Breaking Violation: [65, 69]
+
+
+Processing : [39, 37, 38, 40, 43, 47, 50, 50]
+Found change violation: [37, 38]
+Found Breaking Violation: [43, 47]
+
+
+Processing : [88, 85, 88, 92, 94, 98]
+Found change violation: [85, 88]
+Found Breaking Violation: [88, 92]
+
+
+Processing : [43, 41, 44, 48, 55]
+Found change violation: [41, 44]
+Found Breaking Violation: [44, 48]
+
+
+Processing : [15, 14, 16, 23, 25]
+Found change violation: [14, 16]
+Found Breaking Violation: [16, 23]
+
+
+Processing : [49, 46, 47, 48, 49, 56, 54]
+Found change violation: [46, 47]
+Found Breaking Violation: [49, 56]
+
+
+Processing : [8, 7, 13, 15, 18, 18]
+Found Breaking Violation: [7, 13]
+
+
+Processing : [52, 49, 50, 55, 56, 57, 59, 63]
+Found change violation: [49, 50]
+Found Breaking Violation: [50, 55]
+
+
+Processing : [57, 55, 58, 64, 70]
+Found change violation: [55, 58]
+Found Breaking Violation: [58, 64]
+
+
+Processing : [53, 53, 55, 57, 59, 61, 64]
+Found Max difference violation: [53, 53]
+
+
+Processing : [75, 75, 76, 79, 82, 81]
+Found Max difference violation: [75, 75]
+Found change violation: [82, 81]
+
+
+Processing : [89, 89, 91, 93, 95, 97, 98, 98]
+Found Max difference violation: [89, 89]
+Found Max difference violation: [98, 98]
+
+
+Processing : [38, 38, 41, 44, 46, 50]
+Found Max difference violation: [38, 38]
+Found Max difference violation: [46, 50]
+
+
+Processing : [3, 3, 4, 6, 9, 10, 13, 20]
+Found Max difference violation: [3, 3]
+Found Max difference violation: [13, 20]
+
+
+Processing : [83, 83, 84, 81, 82, 84, 86]
+Found Max difference violation: [83, 83]
+Found change violation: [84, 81]
+
+
+Processing : [26, 26, 23, 24, 25, 24]
+Found Max difference violation: [26, 26]
+Found change violation: [23, 24]
+Found change violation: [25, 24]
+
+
+Processing : [18, 18, 20, 22, 19, 22, 24, 24]
+Found Max difference violation: [18, 18]
+Found change violation: [22, 19]
+Found Max difference violation: [24, 24]
+
+
+Processing : [51, 51, 53, 54, 53, 56, 59, 63]
+Found Max difference violation: [51, 51]
+Found change violation: [54, 53]
+Found Max difference violation: [59, 63]
+
+
+Processing : [38, 38, 40, 37, 38, 45]
+Found Max difference violation: [38, 38]
+Found change violation: [40, 37]
+Found Max difference violation: [38, 45]
+
+
+Processing : [50, 50, 50, 52, 54]
+Found Max difference violation: [50, 50]
+Found Max difference violation: [50, 50]
+
+
+Processing : [53, 53, 53, 55, 54]
+Found Max difference violation: [53, 53]
+Found Max difference violation: [53, 53]
+Found change violation: [55, 54]
+
+
+Processing : [53, 53, 54, 56, 56, 56]
+Found Max difference violation: [53, 53]
+Found Max difference violation: [56, 56]
+Found Max difference violation: [56, 56]
+
+
+Processing : [40, 40, 42, 45, 48, 48, 49, 53]
+Found Max difference violation: [40, 40]
+Found Max difference violation: [48, 48]
+Found Max difference violation: [49, 53]
+
+
+Processing : [79, 79, 79, 82, 84, 86, 87, 92]
+Found Max difference violation: [79, 79]
+Found Max difference violation: [79, 79]
+Found Max difference violation: [87, 92]
+
+
+Processing : [57, 57, 60, 64, 67]
+Found Max difference violation: [57, 57]
+Found Breaking Violation: [60, 64]
+
+
+Processing : [12, 12, 15, 18, 22, 19]
+Found Max difference violation: [12, 12]
+Found Breaking Violation: [18, 22]
+
+
+Processing : [71, 71, 74, 75, 79, 81, 81]
+Found Max difference violation: [71, 71]
+Found Breaking Violation: [75, 79]
+
+
+Processing : [13, 13, 17, 18, 20, 21, 24, 28]
+Found Max difference violation: [13, 13]
+Found Breaking Violation: [13, 17]
+
+
+Processing : [72, 72, 75, 77, 78, 82, 87]
+Found Max difference violation: [72, 72]
+Found Breaking Violation: [78, 82]
+
+
+Processing : [59, 59, 60, 66, 67]
+Found Max difference violation: [59, 59]
+Found Breaking Violation: [60, 66]
+
+
+Processing : [28, 28, 35, 38, 36]
+Found Max difference violation: [28, 28]
+Found Breaking Violation: [28, 35]
+
+
+Processing : [89, 89, 95, 96, 96]
+Found Max difference violation: [89, 89]
+Found Breaking Violation: [89, 95]
+
+
+Processing : [44, 44, 50, 52, 56]
+Found Max difference violation: [44, 44]
+Found Breaking Violation: [44, 50]
+
+
+Processing : [59, 59, 65, 68, 70, 75]
+Found Max difference violation: [59, 59]
+Found Breaking Violation: [59, 65]
+
+
+Processing : [81, 85, 88, 89, 91, 93]
+Found Max difference violation: [81, 85]
+
+
+Processing : [67, 71, 72, 74, 75, 78, 79, 77]
+Found Max difference violation: [67, 71]
+Found change violation: [79, 77]
+
+
+Processing : [68, 72, 73, 76, 78, 78]
+Found Max difference violation: [68, 72]
+Found Max difference violation: [78, 78]
+
+
+Processing : [5, 9, 11, 12, 15, 19]
+Found Max difference violation: [5, 9]
+Found Max difference violation: [15, 19]
+
+
+Processing : [3, 7, 8, 9, 12, 14, 17, 24]
+Found Max difference violation: [3, 7]
+Found Max difference violation: [17, 24]
+
+
+Processing : [19, 23, 21, 22, 24, 25]
+Found Max difference violation: [19, 23]
+Found change violation: [23, 21]
+
+
+Processing : [73, 77, 80, 79, 80, 81, 78]
+Found Max difference violation: [73, 77]
+Found change violation: [80, 79]
+Found change violation: [81, 78]
+
+
+Processing : [66, 70, 71, 72, 71, 71]
+Found Max difference violation: [66, 70]
+Found change violation: [72, 71]
+Found Max difference violation: [71, 71]
+
+
+Processing : [33, 37, 38, 37, 38, 39, 43]
+Found Max difference violation: [33, 37]
+Found change violation: [38, 37]
+Found Max difference violation: [39, 43]
+
+
+Processing : [84, 88, 87, 90, 95]
+Found Max difference violation: [84, 88]
+Found change violation: [88, 87]
+Found Max difference violation: [90, 95]
+
+
+Processing : [2, 6, 9, 9, 11, 14, 15]
+Found Max difference violation: [2, 6]
+Found Max difference violation: [9, 9]
+
+
+Processing : [2, 6, 6, 8, 6]
+Found Max difference violation: [2, 6]
+Found Max difference violation: [6, 6]
+Found change violation: [8, 6]
+
+
+Processing : [76, 80, 80, 81, 81]
+Found Max difference violation: [76, 80]
+Found Max difference violation: [80, 80]
+Found Max difference violation: [81, 81]
+
+
+Processing : [46, 50, 53, 54, 54, 58]
+Found Max difference violation: [46, 50]
+Found Max difference violation: [54, 54]
+Found Max difference violation: [54, 58]
+
+
+Processing : [25, 29, 29, 31, 33, 40]
+Found Max difference violation: [25, 29]
+Found Max difference violation: [29, 29]
+Found Max difference violation: [33, 40]
+
+
+Processing : [64, 68, 72, 75, 78, 81]
+Found Max difference violation: [64, 68]
+Found Breaking Violation: [68, 72]
+
+
+Processing : [79, 83, 87, 90, 92, 94, 92]
+Found Max difference violation: [79, 83]
+Found Breaking Violation: [83, 87]
+
+
+Processing : [8, 12, 14, 18, 20, 20]
+Found Max difference violation: [8, 12]
+Found Breaking Violation: [14, 18]
+
+
+Processing : [51, 55, 58, 62, 64, 66, 70]
+Found Max difference violation: [51, 55]
+Found Breaking Violation: [58, 62]
+
+
+Processing : [31, 35, 39, 42, 49]
+Found Max difference violation: [31, 35]
+Found Breaking Violation: [35, 39]
+
+
+Processing : [42, 46, 49, 52, 59, 61, 62, 64]
+Found Max difference violation: [42, 46]
+Found Breaking Violation: [52, 59]
+
+
+Processing : [34, 38, 40, 45, 48, 49, 52, 51]
+Found Max difference violation: [34, 38]
+Found Breaking Violation: [40, 45]
+
+
+Processing : [28, 32, 33, 38, 38]
+Found Max difference violation: [28, 32]
+Found Breaking Violation: [33, 38]
+
+
+Processing : [10, 14, 16, 19, 20, 27, 31]
+Found Max difference violation: [10, 14]
+Found Breaking Violation: [20, 27]
+
+
+Processing : [6, 10, 16, 18, 21, 26]
+Found Max difference violation: [6, 10]
+Found Breaking Violation: [10, 16]
+
+
+Processing : [56, 61, 63, 65, 68, 71, 73]
+Found Max difference violation: [56, 61]
+
+
+Processing : [43, 49, 52, 55, 57, 58, 60, 58]
+Found Max difference violation: [43, 49]
+Found change violation: [60, 58]
+
+
+Processing : [81, 87, 90, 93, 96, 98, 98]
+Found Max difference violation: [81, 87]
+Found Max difference violation: [98, 98]
+
+
+Processing : [77, 84, 85, 86, 89, 91, 95]
+Found Max difference violation: [77, 84]
+Found Max difference violation: [91, 95]
+
+
+Processing : [72, 78, 80, 82, 83, 90]
+Found Max difference violation: [72, 78]
+Found Max difference violation: [83, 90]
+
+
+Processing : [80, 87, 84, 87, 88]
+Found Max difference violation: [80, 87]
+Found change violation: [87, 84]
+
+
+Processing : [22, 28, 27, 30, 31, 29]
+Found Max difference violation: [22, 28]
+Found change violation: [28, 27]
+Found change violation: [31, 29]
+
+
+Processing : [24, 31, 32, 30, 32, 32]
+Found Max difference violation: [24, 31]
+Found change violation: [32, 30]
+Found Max difference violation: [32, 32]
+
+
+Processing : [9, 15, 12, 15, 18, 21, 24, 28]
+Found Max difference violation: [9, 15]
+Found change violation: [15, 12]
+Found Max difference violation: [24, 28]
+
+
+Processing : [40, 46, 49, 52, 50, 51, 53, 58]
+Found Max difference violation: [40, 46]
+Found change violation: [52, 50]
+Found Max difference violation: [53, 58]
+
+
+Processing : [62, 67, 68, 69, 69, 72, 74]
+Found Max difference violation: [62, 67]
+Found Max difference violation: [69, 69]
+
+
+Processing : [45, 50, 50, 53, 50]
+Found Max difference violation: [45, 50]
+Found Max difference violation: [50, 50]
+Found change violation: [53, 50]
+
+
+Processing : [91, 96, 97, 97, 97]
+Found Max difference violation: [91, 96]
+Found Max difference violation: [97, 97]
+Found Max difference violation: [97, 97]
+
+
+Processing : [48, 54, 54, 57, 59, 62, 64, 68]
+Found Max difference violation: [48, 54]
+Found Max difference violation: [54, 54]
+Found Max difference violation: [64, 68]
+
+
+Processing : [48, 53, 56, 58, 60, 63, 63, 68]
+Found Max difference violation: [48, 53]
+Found Max difference violation: [63, 63]
+Found Max difference violation: [63, 68]
+
+
+Processing : [51, 56, 58, 59, 63, 66, 69, 70]
+Found Max difference violation: [51, 56]
+Found Breaking Violation: [59, 63]
+
+
+Processing : [32, 38, 39, 40, 42, 46, 48, 46]
+Found Max difference violation: [32, 38]
+Found Breaking Violation: [42, 46]
+
+
+Processing : [48, 53, 54, 55, 57, 61, 61]
+Found Max difference violation: [48, 53]
+Found Breaking Violation: [57, 61]
+
+
+Processing : [7, 13, 16, 17, 18, 22, 26]
+Found Max difference violation: [7, 13]
+Found Breaking Violation: [18, 22]
+
+
+Processing : [75, 82, 83, 87, 93]
+Found Max difference violation: [75, 82]
+Found Breaking Violation: [83, 87]
+
+
+Processing : [15, 22, 23, 30, 33, 34, 36, 37]
+Found Max difference violation: [15, 22]
+Found Breaking Violation: [23, 30]
+
+
+Processing : [15, 20, 26, 28, 26]
+Found Max difference violation: [15, 20]
+Found Breaking Violation: [20, 26]
+
+
+Processing : [31, 37, 39, 42, 44, 47, 53, 53]
+Found Max difference violation: [31, 37]
+Found Breaking Violation: [47, 53]
+
+
+Processing : [42, 49, 50, 53, 54, 56, 61, 65]
+Found Max difference violation: [42, 49]
+Found Breaking Violation: [56, 61]
+
+
+Processing : [32, 39, 46, 49, 54]
+Found Max difference violation: [32, 39]
+Found Breaking Violation: [39, 46]
+
+
+Processing : [38, 36, 35, 32, 31, 29, 31]
+Found change violation: [29, 31]
+
+
+Processing : [34, 31, 29, 26, 24, 24]
+Found Max difference violation: [24, 24]
+
+
+Processing : [74, 71, 70, 69, 68, 66, 62]
+Found Max difference violation: [66, 62]
+
+
+Processing : [67, 65, 63, 61, 58, 55, 49]
+Found Max difference violation: [55, 49]
+
+
+Processing : [20, 19, 18, 17, 15, 18, 16]
+Found change violation: [15, 18]
+
+
+Processing : [47, 44, 42, 45, 46]
+Found change violation: [42, 45]
+
+
+Processing : [30, 28, 27, 26, 29, 29]
+Found change violation: [26, 29]
+Found Max difference violation: [29, 29]
+
+
+Processing : [64, 61, 64, 62, 58]
+Found change violation: [61, 64]
+Found Max difference violation: [62, 58]
+
+
+Processing : [89, 86, 85, 88, 87, 86, 81]
+Found change violation: [85, 88]
+Found Max difference violation: [86, 81]
+
+
+Processing : [36, 33, 32, 29, 26, 24, 24, 23]
+Found Max difference violation: [24, 24]
+
+
+Processing : [37, 36, 35, 35, 36]
+Found Max difference violation: [35, 35]
+
+
+Processing : [63, 61, 59, 56, 55, 54, 54, 54]
+Found Max difference violation: [54, 54]
+Found Max difference violation: [54, 54]
+
+
+Processing : [18, 17, 17, 16, 13, 9]
+Found Max difference violation: [17, 17]
+Found Max difference violation: [13, 9]
+
+
+Processing : [30, 29, 27, 27, 24, 17]
+Found Max difference violation: [27, 27]
+Found Max difference violation: [24, 17]
+
+
+Processing : [87, 84, 82, 80, 77, 73, 71, 70]
+Found Breaking Violation: [77, 73]
+
+
+Processing : [29, 27, 24, 20, 19, 18, 20]
+Found Breaking Violation: [24, 20]
+
+
+Processing : [82, 79, 75, 74, 74]
+Found Breaking Violation: [79, 75]
+
+
+Processing : [59, 58, 55, 51, 47]
+Found Breaking Violation: [55, 51]
+
+
+Processing : [88, 87, 86, 82, 75]
+Found Breaking Violation: [86, 82]
+
+
+Processing : [91, 89, 86, 81, 78]
+Found Breaking Violation: [86, 81]
+
+
+Processing : [42, 39, 34, 31, 30, 29, 28, 29]
+Found Breaking Violation: [39, 34]
+
+
+Processing : [98, 97, 96, 89, 89]
+Found Breaking Violation: [96, 89]
+
+
+Processing : [78, 77, 72, 69, 67, 64, 62, 58]
+Found Breaking Violation: [77, 72]
+
+
+Processing : [88, 86, 84, 82, 79, 76, 70, 64]
+Found Breaking Violation: [76, 70]
+
+
+Processing : [64, 65, 62, 60, 58]
+Found change violation: [65, 62]
+
+
+Processing : [82, 85, 84, 81, 78, 77, 80]
+Found change violation: [85, 84]
+Found change violation: [77, 80]
+
+
+Processing : [42, 45, 42, 39, 38, 35, 35]
+Found change violation: [45, 42]
+Found Max difference violation: [35, 35]
+
+
+Processing : [95, 97, 95, 94, 90]
+Found change violation: [97, 95]
+Found Max difference violation: [94, 90]
+
+
+Processing : [49, 51, 50, 49, 47, 46, 41]
+Found change violation: [51, 50]
+Found Max difference violation: [46, 41]
+
+
+Processing : [38, 41, 43, 40, 39]
+Found change violation: [43, 40]
+
+
+Processing : [87, 88, 85, 84, 86, 87]
+Found change violation: [88, 85]
+Found change violation: [84, 86]
+
+
+Processing : [21, 24, 23, 21, 20, 22, 19, 19]
+Found change violation: [24, 23]
+Found change violation: [20, 22]
+Found Max difference violation: [19, 19]
+
+
+Processing : [26, 27, 26, 25, 24, 27, 23]
+Found change violation: [27, 26]
+Found change violation: [24, 27]
+Found Max difference violation: [27, 23]
+
+
+Processing : [88, 91, 90, 89, 88, 91, 89, 83]
+Found change violation: [91, 90]
+Found change violation: [88, 91]
+Found Max difference violation: [89, 83]
+
+
+Processing : [26, 28, 27, 27, 24, 23, 20, 17]
+Found change violation: [28, 27]
+Found Max difference violation: [27, 27]
+
+
+Processing : [58, 59, 58, 55, 55, 54, 55]
+Found change violation: [59, 58]
+Found Max difference violation: [55, 55]
+Found change violation: [54, 55]
+
+
+Processing : [80, 83, 80, 80, 79, 78, 76, 76]
+Found change violation: [83, 80]
+Found Max difference violation: [80, 80]
+Found Max difference violation: [76, 76]
+
+
+Processing : [55, 58, 58, 55, 54, 50]
+Found Max difference violation: [58, 58]
+Found Max difference violation: [54, 50]
+
+
+Processing : [49, 52, 52, 49, 44]
+Found Max difference violation: [52, 52]
+Found Max difference violation: [49, 44]
+
+
+Processing : [46, 47, 45, 41, 38, 35, 33]
+Found change violation: [47, 45]
+Found Breaking Violation: [45, 41]
+
+
+Processing : [51, 52, 50, 46, 43, 44]
+Found change violation: [52, 50]
+Found Breaking Violation: [50, 46]
+
+
+Processing : [8, 10, 8, 7, 6, 2, 1, 1]
+Found change violation: [10, 8]
+Found Breaking Violation: [6, 2]
+
+
+Processing : [40, 41, 38, 37, 34, 33, 29, 25]
+Found change violation: [41, 38]
+Found Breaking Violation: [33, 29]
+
+
+Processing : [96, 97, 96, 92, 90, 84]
+Found change violation: [97, 96]
+Found Breaking Violation: [96, 92]
+
+
+Processing : [43, 46, 45, 43, 42, 40, 33, 31]
+Found change violation: [46, 45]
+Found Breaking Violation: [40, 33]
+
+
+Processing : [39, 41, 34, 32, 31, 33]
+Found Breaking Violation: [41, 34]
+
+
+Processing : [72, 73, 68, 67, 65, 65]
+Found Breaking Violation: [73, 68]
+
+
+Processing : [33, 35, 33, 30, 29, 22, 19, 15]
+Found change violation: [35, 33]
+Found Breaking Violation: [29, 22]
+
+
+Processing : [35, 36, 31, 30, 28, 21]
+Found Breaking Violation: [36, 31]
+
+
+Processing : [57, 57, 55, 52, 49]
+Found Max difference violation: [57, 57]
+
+
+Processing : [32, 32, 31, 30, 28, 26, 24, 25]
+Found Max difference violation: [32, 32]
+Found change violation: [24, 25]
+
+
+Processing : [66, 66, 64, 62, 59, 56, 55, 55]
+Found Max difference violation: [66, 66]
+Found Max difference violation: [55, 55]
+
+
+Processing : [96, 96, 93, 91, 88, 87, 83]
+Found Max difference violation: [96, 96]
+Found Max difference violation: [87, 83]
+
+
+Processing : [50, 50, 48, 47, 46, 43, 41, 34]
+Found Max difference violation: [50, 50]
+Found Max difference violation: [41, 34]
+
+
+Processing : [74, 74, 71, 70, 72, 71]
+Found Max difference violation: [74, 74]
+Found change violation: [70, 72]
+
+
+Processing : [12, 12, 13, 10, 7, 9]
+Found Max difference violation: [12, 12]
+Found change violation: [13, 10]
+Found change violation: [7, 9]
+
+
+Processing : [49, 49, 48, 46, 49, 48, 48]
+Found Max difference violation: [49, 49]
+Found change violation: [46, 49]
+Found Max difference violation: [48, 48]
+
+
+Processing : [60, 60, 59, 61, 57]
+Found Max difference violation: [60, 60]
+Found change violation: [59, 61]
+Found Max difference violation: [61, 57]
+
+
+Processing : [39, 39, 42, 39, 32]
+Found Max difference violation: [39, 39]
+Found change violation: [42, 39]
+Found Max difference violation: [39, 32]
+
+
+Processing : [34, 34, 34, 33, 32, 31, 30, 27]
+Found Max difference violation: [34, 34]
+Found Max difference violation: [34, 34]
+
+
+Processing : [84, 84, 83, 83, 84]
+Found Max difference violation: [84, 84]
+Found Max difference violation: [83, 83]
+
+
+Processing : [17, 17, 17, 15, 13, 11, 11]
+Found Max difference violation: [17, 17]
+Found Max difference violation: [17, 17]
+Found Max difference violation: [11, 11]
+
+
+Processing : [68, 68, 65, 62, 62, 59, 55]
+Found Max difference violation: [68, 68]
+Found Max difference violation: [62, 62]
+Found Max difference violation: [59, 55]
+
+
+Processing : [23, 23, 20, 20, 19, 12]
+Found Max difference violation: [23, 23]
+Found Max difference violation: [20, 20]
+Found Max difference violation: [19, 12]
+
+
+Processing : [22, 22, 18, 17, 16, 14, 13]
+Found Max difference violation: [22, 22]
+Found Breaking Violation: [22, 18]
+
+
+Processing : [85, 85, 82, 79, 77, 73, 76]
+Found Max difference violation: [85, 85]
+Found Breaking Violation: [77, 73]
+
+
+Processing : [76, 76, 72, 70, 68, 68]
+Found Max difference violation: [76, 76]
+Found Breaking Violation: [76, 72]
+
+
+Processing : [76, 76, 72, 70, 67, 65, 61]
+Found Max difference violation: [76, 76]
+Found Breaking Violation: [76, 72]
+
+
+Processing : [81, 81, 80, 76, 75, 68]
+Found Max difference violation: [81, 81]
+Found Breaking Violation: [80, 76]
+
+
+Processing : [35, 35, 32, 30, 23, 21, 19, 16]
+Found Max difference violation: [35, 35]
+Found Breaking Violation: [30, 23]
+
+
+Processing : [87, 87, 85, 84, 81, 74, 77]
+Found Max difference violation: [87, 87]
+Found Breaking Violation: [81, 74]
+
+
+Processing : [24, 24, 21, 14, 14]
+Found Max difference violation: [24, 24]
+Found Breaking Violation: [21, 14]
+
+
+Processing : [58, 58, 55, 50, 47, 46, 42]
+Found Max difference violation: [58, 58]
+Found Breaking Violation: [55, 50]
+
+
+Processing : [92, 92, 91, 88, 83, 78]
+Found Max difference violation: [92, 92]
+Found Breaking Violation: [88, 83]
+
+
+Processing : [53, 49, 47, 44, 42, 40, 38, 35]
+Found Max difference violation: [53, 49]
+
+
+Processing : [37, 33, 30, 27, 26, 24, 22, 24]
+Found Max difference violation: [37, 33]
+Found change violation: [22, 24]
+
+
+Processing : [59, 55, 53, 51, 50, 50]
+Found Max difference violation: [59, 55]
+Found Max difference violation: [50, 50]
+
+
+Processing : [69, 65, 64, 61, 60, 58, 54]
+Found Max difference violation: [69, 65]
+Found Max difference violation: [58, 54]
+
+
+Processing : [96, 92, 89, 88, 85, 78]
+Found Max difference violation: [96, 92]
+Found Max difference violation: [85, 78]
+
+
+Processing : [91, 87, 88, 86, 84, 83, 80, 77]
+Found Max difference violation: [91, 87]
+Found change violation: [87, 88]
+
+
+Processing : [20, 16, 17, 16, 15, 13, 10, 12]
+Found Max difference violation: [20, 16]
+Found change violation: [16, 17]
+Found change violation: [10, 12]
+
+
+Processing : [66, 62, 65, 62, 59, 59]
+Found Max difference violation: [66, 62]
+Found change violation: [62, 65]
+Found Max difference violation: [59, 59]
+
+
+Processing : [74, 70, 67, 70, 69, 67, 66, 62]
+Found Max difference violation: [74, 70]
+Found change violation: [67, 70]
+Found Max difference violation: [66, 62]
+
+
+Processing : [78, 74, 73, 71, 73, 71, 66]
+Found Max difference violation: [78, 74]
+Found change violation: [71, 73]
+Found Max difference violation: [71, 66]
+
+
+Processing : [92, 88, 87, 87, 84]
+Found Max difference violation: [92, 88]
+Found Max difference violation: [87, 87]
+
+
+Processing : [16, 12, 9, 7, 6, 6, 5, 7]
+Found Max difference violation: [16, 12]
+Found Max difference violation: [6, 6]
+Found change violation: [5, 7]
+
+
+Processing : [66, 62, 62, 61, 59, 57, 57]
+Found Max difference violation: [66, 62]
+Found Max difference violation: [62, 62]
+Found Max difference violation: [57, 57]
+
+
+Processing : [51, 47, 45, 44, 42, 42, 38]
+Found Max difference violation: [51, 47]
+Found Max difference violation: [42, 42]
+Found Max difference violation: [42, 38]
+
+
+Processing : [78, 74, 74, 71, 66]
+Found Max difference violation: [78, 74]
+Found Max difference violation: [74, 74]
+Found Max difference violation: [71, 66]
+
+
+Processing : [74, 70, 69, 65, 64, 63, 60, 59]
+Found Max difference violation: [74, 70]
+Found Breaking Violation: [69, 65]
+
+
+Processing : [54, 50, 47, 44, 43, 39, 38, 39]
+Found Max difference violation: [54, 50]
+Found Breaking Violation: [43, 39]
+
+
+Processing : [78, 74, 73, 72, 68, 68]
+Found Max difference violation: [78, 74]
+Found Breaking Violation: [72, 68]
+
+
+Processing : [79, 75, 74, 73, 69, 65]
+Found Max difference violation: [79, 75]
+Found Breaking Violation: [73, 69]
+
+
+Processing : [18, 14, 10, 8, 1]
+Found Max difference violation: [18, 14]
+Found Breaking Violation: [14, 10]
+
+
+Processing : [77, 73, 66, 63, 62]
+Found Max difference violation: [77, 73]
+Found Breaking Violation: [73, 66]
+
+
+Processing : [97, 93, 92, 86, 87]
+Found Max difference violation: [97, 93]
+Found Breaking Violation: [92, 86]
+
+
+Processing : [65, 61, 58, 55, 54, 48, 47, 47]
+Found Max difference violation: [65, 61]
+Found Breaking Violation: [54, 48]
+
+
+Processing : [71, 67, 65, 62, 55, 54, 50]
+Found Max difference violation: [71, 67]
+Found Breaking Violation: [62, 55]
+
+
+Processing : [68, 64, 57, 56, 50]
+Found Max difference violation: [68, 64]
+Found Breaking Violation: [64, 57]
+
+
+Processing : [83, 78, 76, 74, 72, 71, 69]
+Found Max difference violation: [83, 78]
+
+
+Processing : [63, 57, 55, 52, 51, 52]
+Found Max difference violation: [63, 57]
+Found change violation: [51, 52]
+
+
+Processing : [56, 50, 47, 44, 43, 41, 41]
+Found Max difference violation: [56, 50]
+Found Max difference violation: [41, 41]
+
+
+Processing : [34, 28, 25, 23, 22, 18]
+Found Max difference violation: [34, 28]
+Found Max difference violation: [22, 18]
+
+
+Processing : [93, 87, 85, 83, 80, 79, 77, 72]
+Found Max difference violation: [93, 87]
+Found Max difference violation: [77, 72]
+
+
+Processing : [74, 69, 67, 65, 68, 65]
+Found Max difference violation: [74, 69]
+Found change violation: [65, 68]
+
+
+Processing : [77, 71, 70, 68, 71, 72]
+Found Max difference violation: [77, 71]
+Found change violation: [68, 71]
+
+
+Processing : [41, 35, 33, 31, 34, 33, 33]
+Found Max difference violation: [41, 35]
+Found change violation: [31, 34]
+Found Max difference violation: [33, 33]
+
+
+Processing : [52, 47, 44, 41, 39, 37, 40, 36]
+Found Max difference violation: [52, 47]
+Found change violation: [37, 40]
+Found Max difference violation: [40, 36]
+
+
+Processing : [56, 49, 52, 50, 48, 45, 39]
+Found Max difference violation: [56, 49]
+Found change violation: [49, 52]
+Found Max difference violation: [45, 39]
+
+
+Processing : [89, 83, 82, 81, 80, 80, 79]
+Found Max difference violation: [89, 83]
+Found Max difference violation: [80, 80]
+
+
+Processing : [12, 7, 7, 4, 1, 4]
+Found Max difference violation: [12, 7]
+Found Max difference violation: [7, 7]
+Found change violation: [1, 4]
+
+
+Processing : [99, 92, 90, 90, 89, 86, 86]
+Found Max difference violation: [99, 92]
+Found Max difference violation: [90, 90]
+Found Max difference violation: [86, 86]
+
+
+Processing : [32, 27, 25, 22, 22, 20, 17, 13]
+Found Max difference violation: [32, 27]
+Found Max difference violation: [22, 22]
+Found Max difference violation: [17, 13]
+
+
+Processing : [30, 25, 23, 23, 22, 21, 14]
+Found Max difference violation: [30, 25]
+Found Max difference violation: [23, 23]
+Found Max difference violation: [21, 14]
+
+
+Processing : [52, 45, 43, 39, 37, 36]
+Found Max difference violation: [52, 45]
+Found Breaking Violation: [43, 39]
+
+
+Processing : [91, 86, 84, 80, 79, 76, 75, 78]
+Found Max difference violation: [91, 86]
+Found Breaking Violation: [84, 80]
+
+
+Processing : [88, 83, 81, 77, 75, 72, 71, 71]
+Found Max difference violation: [88, 83]
+Found Breaking Violation: [81, 77]
+
+
+Processing : [49, 43, 39, 37, 33]
+Found Max difference violation: [49, 43]
+Found Breaking Violation: [43, 39]
+
+
+Processing : [74, 67, 63, 60, 54]
+Found Max difference violation: [74, 67]
+Found Breaking Violation: [67, 63]
+
+
+Processing : [84, 79, 76, 74, 68, 67, 66, 64]
+Found Max difference violation: [84, 79]
+Found Breaking Violation: [74, 68]
+
+
+Processing : [35, 29, 23, 21, 20, 17, 19]
+Found Max difference violation: [35, 29]
+Found Breaking Violation: [29, 23]
+
+
+Processing : [28, 22, 19, 17, 16, 9, 9]
+Found Max difference violation: [28, 22]
+Found Breaking Violation: [16, 9]
+
+
+Processing : [68, 63, 57, 54, 50]
+Found Max difference violation: [68, 63]
+Found Breaking Violation: [63, 57]
+
+
+Processing : [26, 21, 18, 17, 12, 10, 5]
+Found Max difference violation: [26, 21]
+Found Breaking Violation: [17, 12]
+
+
+Processing : [49, 52, 54, 55, 57, 55]
+Found change violation: [57, 55]
+
+
+Processing : [44, 46, 48, 50, 53, 56, 57, 57]
+Found Max difference violation: [57, 57]
+
+
+Processing : [13, 16, 17, 18, 21, 22, 26]
+Found Max difference violation: [22, 26]
+
+
+Processing : [62, 64, 67, 69, 71, 72, 73, 79]
+Found Max difference violation: [73, 79]
+
+
+Processing : [75, 78, 80, 82, 85, 86, 83, 84]
+Found change violation: [86, 83]
+
+
+Processing : [21, 22, 20, 22, 23, 25, 28, 27]
+Found change violation: [22, 20]
+Found change violation: [28, 27]
+
+
+Processing : [70, 73, 71, 74, 75, 78, 79, 79]
+Found change violation: [73, 71]
+Found Max difference violation: [79, 79]
+
+
+Processing : [66, 68, 70, 69, 72, 75, 78, 82]
+Found change violation: [70, 69]
+Found Max difference violation: [78, 82]
+
+
+Processing : [21, 22, 24, 27, 25, 32]
+Found change violation: [27, 25]
+Found Max difference violation: [25, 32]
+
+
+Processing : [29, 32, 35, 36, 37, 37, 40, 43]
+Found Max difference violation: [37, 37]
+
+
+Processing : [44, 47, 48, 50, 50, 51, 54, 53]
+Found Max difference violation: [50, 50]
+Found change violation: [54, 53]
+
+
+Processing : [63, 64, 66, 66, 67, 67]
+Found Max difference violation: [66, 66]
+Found Max difference violation: [67, 67]
+
+
+Processing : [48, 49, 52, 53, 53, 56, 59, 63]
+Found Max difference violation: [53, 53]
+Found Max difference violation: [59, 63]
+
+
+Processing : [64, 66, 69, 70, 71, 72, 72, 79]
+Found Max difference violation: [72, 72]
+Found Max difference violation: [72, 79]
+
+
+Processing : [37, 38, 41, 43, 46, 50, 51]
+Found Breaking Violation: [46, 50]
+
+
+Processing : [81, 84, 86, 87, 91, 89]
+Found Breaking Violation: [87, 91]
+
+
+Processing : [55, 58, 62, 63, 66, 67, 70, 70]
+Found Breaking Violation: [58, 62]
+
+
+Processing : [59, 60, 63, 65, 69, 70, 73, 77]
+Found Breaking Violation: [65, 69]
+
+
+Processing : [19, 22, 23, 27, 34]
+Found Breaking Violation: [23, 27]
+
+
+Processing : [25, 26, 33, 36, 37]
+Found Breaking Violation: [26, 33]
+
+
+Processing : [4, 7, 10, 11, 13, 18, 16]
+Found Breaking Violation: [13, 18]
+
+
+Processing : [25, 28, 31, 32, 33, 38, 38]
+Found Breaking Violation: [33, 38]
+
+
+Processing : [23, 24, 27, 34, 38]
+Found Breaking Violation: [27, 34]
+
+
+Processing : [34, 35, 36, 42, 45, 46, 47, 52]
+Found Breaking Violation: [36, 42]
+
+
+Processing : [35, 34, 35, 36, 38]
+Found change violation: [34, 35]
+
+
+Processing : [70, 69, 71, 72, 74, 75, 73]
+Found change violation: [69, 71]
+Found change violation: [75, 73]
+
+
+Processing : [33, 32, 34, 35, 36, 36]
+Found change violation: [32, 34]
+Found Max difference violation: [36, 36]
+
+
+Processing : [65, 64, 66, 69, 72, 75, 77, 81]
+Found change violation: [64, 66]
+Found Max difference violation: [77, 81]
+
+
+Processing : [57, 55, 58, 59, 64]
+Found change violation: [55, 58]
+Found Max difference violation: [59, 64]
+
+
+Processing : [14, 13, 11, 12, 13]
+Found change violation: [11, 12]
+
+
+Processing : [35, 33, 34, 33, 35, 37, 36]
+Found change violation: [33, 34]
+Found change violation: [33, 35]
+Found change violation: [37, 36]
+
+
+Processing : [57, 55, 52, 55, 55]
+Found change violation: [52, 55]
+Found Max difference violation: [55, 55]
+
+
+Processing : [8, 6, 9, 8, 9, 10, 14]
+Found change violation: [6, 9]
+Found change violation: [8, 9]
+Found Max difference violation: [10, 14]
+
+
+Processing : [32, 29, 26, 29, 35]
+Found change violation: [26, 29]
+Found Max difference violation: [29, 35]
+
+
+Processing : [64, 61, 61, 64, 67, 69, 70, 72]
+Found Max difference violation: [61, 61]
+
+
+Processing : [86, 85, 87, 87, 90, 92, 89]
+Found change violation: [85, 87]
+Found Max difference violation: [87, 87]
+Found change violation: [92, 89]
+
+
+Processing : [69, 66, 69, 69, 71, 73, 74, 74]
+Found change violation: [66, 69]
+Found Max difference violation: [69, 69]
+Found Max difference violation: [74, 74]
+
+
+Processing : [21, 19, 19, 20, 24]
+Found Max difference violation: [19, 19]
+Found Max difference violation: [20, 24]
+
+
+Processing : [29, 28, 30, 33, 33, 35, 40]
+Found change violation: [28, 30]
+Found Max difference violation: [33, 33]
+Found Max difference violation: [35, 40]
+
+
+Processing : [48, 47, 48, 50, 54, 56, 58]
+Found change violation: [47, 48]
+Found Breaking Violation: [50, 54]
+
+
+Processing : [5, 2, 6, 7, 10, 12, 14, 13]
+Found Breaking Violation: [2, 6]
+
+
+Processing : [35, 32, 33, 37, 39, 42, 42]
+Found change violation: [32, 33]
+Found Breaking Violation: [33, 37]
+
+
+Processing : [66, 63, 67, 70, 74]
+Found Breaking Violation: [63, 67]
+
+
+Processing : [71, 68, 69, 73, 79]
+Found change violation: [68, 69]
+Found Breaking Violation: [69, 73]
+
+
+Processing : [7, 6, 12, 14, 17, 20, 21]
+Found Breaking Violation: [6, 12]
+
+
+Processing : [54, 51, 54, 61, 59]
+Found change violation: [51, 54]
+Found Breaking Violation: [54, 61]
+
+
+Processing : [40, 37, 40, 41, 48, 48]
+Found change violation: [37, 40]
+Found Breaking Violation: [41, 48]
+
+
+Processing : [30, 29, 34, 37, 39, 43]
+Found Breaking Violation: [29, 34]
+
+
+Processing : [6, 5, 6, 8, 15, 22]
+Found change violation: [5, 6]
+Found Breaking Violation: [8, 15]
+
+
+Processing : [3, 3, 4, 7, 10, 11]
+Found Max difference violation: [3, 3]
+
+
+Processing : [60, 60, 62, 63, 66, 65]
+Found Max difference violation: [60, 60]
+Found change violation: [66, 65]
+
+
+Processing : [89, 89, 92, 94, 97, 99, 99]
+Found Max difference violation: [89, 89]
+Found Max difference violation: [99, 99]
+
+
+Processing : [4, 4, 7, 10, 11, 15]
+Found Max difference violation: [4, 4]
+Found Max difference violation: [11, 15]
+
+
+Processing : [72, 72, 73, 76, 77, 84]
+Found Max difference violation: [72, 72]
+Found Max difference violation: [77, 84]
+
+
+Processing : [32, 32, 35, 37, 39, 41, 38, 41]
+Found Max difference violation: [32, 32]
+Found change violation: [41, 38]
+
+
+Processing : [74, 74, 76, 75, 78, 81, 82, 80]
+Found Max difference violation: [74, 74]
+Found change violation: [76, 75]
+Found change violation: [82, 80]
+
+
+Processing : [50, 50, 53, 52, 52]
+Found Max difference violation: [50, 50]
+Found change violation: [53, 52]
+Found Max difference violation: [52, 52]
+
+
+Processing : [78, 78, 77, 78, 82]
+Found Max difference violation: [78, 78]
+Found change violation: [77, 78]
+Found Max difference violation: [78, 82]
+
+
+Processing : [41, 41, 44, 41, 42, 45, 50]
+Found Max difference violation: [41, 41]
+Found change violation: [44, 41]
+Found Max difference violation: [45, 50]
+
+
+Processing : [64, 64, 66, 66, 67]
+Found Max difference violation: [64, 64]
+Found Max difference violation: [66, 66]
+
+
+Processing : [25, 25, 25, 27, 28, 31, 34, 31]
+Found Max difference violation: [25, 25]
+Found Max difference violation: [25, 25]
+Found change violation: [34, 31]
+
+
+Processing : [24, 24, 24, 27, 29, 29]
+Found Max difference violation: [24, 24]
+Found Max difference violation: [24, 24]
+Found Max difference violation: [29, 29]
+
+
+Processing : [50, 50, 52, 53, 53, 55, 59]
+Found Max difference violation: [50, 50]
+Found Max difference violation: [53, 53]
+Found Max difference violation: [55, 59]
+
+
+Processing : [6, 6, 8, 11, 11, 18]
+Found Max difference violation: [6, 6]
+Found Max difference violation: [11, 11]
+Found Max difference violation: [11, 18]
+
+
+Processing : [43, 43, 46, 49, 52, 56, 58, 60]
+Found Max difference violation: [43, 43]
+Found Breaking Violation: [52, 56]
+
+
+Processing : [29, 29, 32, 36, 38, 41, 44, 41]
+Found Max difference violation: [29, 29]
+Found Breaking Violation: [32, 36]
+
+
+Processing : [64, 64, 67, 69, 70, 74, 74]
+Found Max difference violation: [64, 64]
+Found Breaking Violation: [70, 74]
+
+
+Processing : [13, 13, 17, 18, 21, 24, 28]
+Found Max difference violation: [13, 13]
+Found Breaking Violation: [13, 17]
+
+
+Processing : [43, 43, 47, 50, 56]
+Found Max difference violation: [43, 43]
+Found Breaking Violation: [43, 47]
+
+
+Processing : [43, 43, 46, 52, 54]
+Found Max difference violation: [43, 43]
+Found Breaking Violation: [46, 52]
+
+
+Processing : [10, 10, 13, 19, 18]
+Found Max difference violation: [10, 10]
+Found Breaking Violation: [13, 19]
+
+
+Processing : [87, 87, 90, 96, 96]
+Found Max difference violation: [87, 87]
+Found Breaking Violation: [90, 96]
+
+
+Processing : [55, 55, 57, 62, 64, 67, 71]
+Found Max difference violation: [55, 55]
+Found Breaking Violation: [57, 62]
+
+
+Processing : [16, 16, 19, 21, 23, 28, 35]
+Found Max difference violation: [16, 16]
+Found Breaking Violation: [23, 28]
+
+
+Processing : [42, 46, 48, 51, 52]
+Found Max difference violation: [42, 46]
+
+
+Processing : [65, 69, 71, 72, 71]
+Found Max difference violation: [65, 69]
+Found change violation: [72, 71]
+
+
+Processing : [56, 60, 63, 66, 69, 71, 71]
+Found Max difference violation: [56, 60]
+Found Max difference violation: [71, 71]
+
+
+Processing : [35, 39, 42, 44, 48]
+Found Max difference violation: [35, 39]
+Found Max difference violation: [44, 48]
+
+
+Processing : [82, 86, 87, 89, 94]
+Found Max difference violation: [82, 86]
+Found Max difference violation: [89, 94]
+
+
+Processing : [28, 32, 31, 33, 34]
+Found Max difference violation: [28, 32]
+Found change violation: [32, 31]
+
+
+Processing : [74, 78, 75, 76, 78, 81, 78]
+Found Max difference violation: [74, 78]
+Found change violation: [78, 75]
+Found change violation: [81, 78]
+
+
+Processing : [30, 34, 36, 34, 34]
+Found Max difference violation: [30, 34]
+Found change violation: [36, 34]
+Found Max difference violation: [34, 34]
+
+
+Processing : [17, 21, 24, 21, 24, 25, 26, 30]
+Found Max difference violation: [17, 21]
+Found change violation: [24, 21]
+Found Max difference violation: [26, 30]
+
+
+Processing : [4, 8, 9, 12, 10, 15]
+Found Max difference violation: [4, 8]
+Found change violation: [12, 10]
+Found Max difference violation: [10, 15]
+
+
+Processing : [88, 92, 95, 98, 98, 99]
+Found Max difference violation: [88, 92]
+Found Max difference violation: [98, 98]
+
+
+Processing : [46, 50, 50, 53, 54, 55, 52]
+Found Max difference violation: [46, 50]
+Found Max difference violation: [50, 50]
+Found change violation: [55, 52]
+
+
+Processing : [13, 17, 20, 21, 21, 22, 25, 25]
+Found Max difference violation: [13, 17]
+Found Max difference violation: [21, 21]
+Found Max difference violation: [25, 25]
+
+
+Processing : [49, 53, 53, 55, 58, 62]
+Found Max difference violation: [49, 53]
+Found Max difference violation: [53, 53]
+Found Max difference violation: [58, 62]
+
+
+Processing : [35, 39, 41, 41, 44, 45, 51]
+Found Max difference violation: [35, 39]
+Found Max difference violation: [41, 41]
+Found Max difference violation: [45, 51]
+
+
+Processing : [79, 83, 84, 88, 90]
+Found Max difference violation: [79, 83]
+Found Breaking Violation: [84, 88]
+
+
+Processing : [39, 43, 47, 48, 50, 49]
+Found Max difference violation: [39, 43]
+Found Breaking Violation: [43, 47]
+
+
+Processing : [78, 82, 83, 87, 88, 91, 94, 94]
+Found Max difference violation: [78, 82]
+Found Breaking Violation: [83, 87]
+
+
+Processing : [53, 57, 59, 63, 67]
+Found Max difference violation: [53, 57]
+Found Breaking Violation: [59, 63]
+
+
+Processing : [50, 54, 58, 61, 66]
+Found Max difference violation: [50, 54]
+Found Breaking Violation: [54, 58]
+
+
+Processing : [26, 30, 37, 39, 41, 43]
+Found Max difference violation: [26, 30]
+Found Breaking Violation: [30, 37]
+
+
+Processing : [73, 77, 80, 82, 85, 87, 92, 90]
+Found Max difference violation: [73, 77]
+Found Breaking Violation: [87, 92]
+
+
+Processing : [49, 53, 55, 61, 61]
+Found Max difference violation: [49, 53]
+Found Breaking Violation: [55, 61]
+
+
+Processing : [13, 17, 20, 22, 23, 26, 31, 35]
+Found Max difference violation: [13, 17]
+Found Breaking Violation: [26, 31]
+
+
+Processing : [51, 55, 57, 58, 65, 71]
+Found Max difference violation: [51, 55]
+Found Breaking Violation: [58, 65]
+
+
+Processing : [53, 60, 62, 64, 67, 69, 72, 75]
+Found Max difference violation: [53, 60]
+
+
+Processing : [84, 89, 91, 94, 92]
+Found Max difference violation: [84, 89]
+Found change violation: [94, 92]
+
+
+Processing : [36, 42, 45, 46, 48, 48]
+Found Max difference violation: [36, 42]
+Found Max difference violation: [48, 48]
+
+
+Processing : [40, 45, 48, 51, 54, 57, 59, 63]
+Found Max difference violation: [40, 45]
+Found Max difference violation: [59, 63]
+
+
+Processing : [48, 53, 56, 57, 60, 63, 66, 71]
+Found Max difference violation: [48, 53]
+Found Max difference violation: [66, 71]
+
+
+Processing : [79, 84, 85, 86, 87, 85, 86, 87]
+Found Max difference violation: [79, 84]
+Found change violation: [87, 85]
+
+
+Processing : [87, 94, 92, 95, 93]
+Found Max difference violation: [87, 94]
+Found change violation: [94, 92]
+Found change violation: [95, 93]
+
+
+Processing : [4, 10, 12, 14, 16, 14, 14]
+Found Max difference violation: [4, 10]
+Found change violation: [16, 14]
+Found Max difference violation: [14, 14]
+
+
+Processing : [31, 36, 35, 38, 39, 40, 42, 46]
+Found Max difference violation: [31, 36]
+Found change violation: [36, 35]
+Found Max difference violation: [42, 46]
+
+
+Processing : [13, 20, 19, 22, 27]
+Found Max difference violation: [13, 20]
+Found change violation: [20, 19]
+Found Max difference violation: [22, 27]
+
+
+Processing : [33, 38, 38, 41, 43, 44]
+Found Max difference violation: [33, 38]
+Found Max difference violation: [38, 38]
+
+
+Processing : [55, 61, 63, 63, 61]
+Found Max difference violation: [55, 61]
+Found Max difference violation: [63, 63]
+
+
+Processing : [41, 46, 48, 51, 54, 54, 56, 56]
+Found Max difference violation: [41, 46]
+Found Max difference violation: [54, 54]
+Found Max difference violation: [56, 56]
+
+
+Processing : [4, 10, 13, 13, 15, 18, 22]
+Found Max difference violation: [4, 10]
+Found Max difference violation: [13, 13]
+Found Max difference violation: [18, 22]
+
+
+Processing : [33, 38, 40, 43, 44, 45, 45, 50]
+Found Max difference violation: [33, 38]
+Found Max difference violation: [45, 45]
+Found Max difference violation: [45, 50]
+
+
+Processing : [19, 24, 27, 31, 32, 35, 36, 37]
+Found Max difference violation: [19, 24]
+Found Breaking Violation: [27, 31]
+
+
+Processing : [85, 90, 91, 95, 93]
+Found Max difference violation: [85, 90]
+Found Breaking Violation: [91, 95]
+
+
+Processing : [2, 8, 12, 14, 14]
+Found Max difference violation: [2, 8]
+Found Breaking Violation: [8, 12]
+
+
+Processing : [51, 58, 62, 63, 64, 68]
+Found Max difference violation: [51, 58]
+Found Breaking Violation: [58, 62]
+
+
+Processing : [19, 25, 29, 30, 36]
+Found Max difference violation: [19, 25]
+Found Breaking Violation: [25, 29]
+
+
+Processing : [9, 14, 15, 20, 23, 24, 27, 29]
+Found Max difference violation: [9, 14]
+Found Breaking Violation: [15, 20]
+
+
+Processing : [45, 50, 52, 55, 62, 65, 64]
+Found Max difference violation: [45, 50]
+Found Breaking Violation: [55, 62]
+
+
+Processing : [35, 42, 43, 49, 49]
+Found Max difference violation: [35, 42]
+Found Breaking Violation: [43, 49]
+
+
+Processing : [69, 74, 75, 76, 79, 82, 89, 93]
+Found Max difference violation: [69, 74]
+Found Breaking Violation: [82, 89]
+
+
+Processing : [48, 55, 58, 60, 61, 66, 71]
+Found Max difference violation: [48, 55]
+Found Breaking Violation: [61, 66]
+
+
+Processing : [79, 76, 73, 72, 75]
+Found change violation: [72, 75]
+
+
+Processing : [70, 69, 68, 66, 64, 64]
+Found Max difference violation: [64, 64]
+
+
+Processing : [54, 52, 49, 46, 42]
+Found Max difference violation: [46, 42]
+
+
+Processing : [86, 85, 84, 82, 79, 78, 71]
+Found Max difference violation: [78, 71]
+
+
+Processing : [71, 69, 68, 69, 67, 64]
+Found change violation: [68, 69]
+
+
+Processing : [63, 60, 59, 58, 60, 59, 62]
+Found change violation: [58, 60]
+Found change violation: [59, 62]
+
+
+Processing : [14, 13, 14, 11, 11]
+Found change violation: [13, 14]
+Found Max difference violation: [11, 11]
+
+
+Processing : [96, 94, 93, 96, 92]
+Found change violation: [93, 96]
+Found Max difference violation: [96, 92]
+
+
+Processing : [75, 73, 74, 71, 69, 68, 61]
+Found change violation: [73, 74]
+Found Max difference violation: [68, 61]
+
+
+Processing : [71, 70, 67, 67, 65, 63, 62]
+Found Max difference violation: [67, 67]
+
+
+Processing : [12, 10, 9, 9, 6, 3, 5]
+Found Max difference violation: [9, 9]
+Found change violation: [3, 5]
+
+
+Processing : [82, 79, 78, 76, 75, 74, 74, 74]
+Found Max difference violation: [74, 74]
+Found Max difference violation: [74, 74]
+
+
+Processing : [21, 20, 19, 19, 15]
+Found Max difference violation: [19, 19]
+Found Max difference violation: [19, 15]
+
+
+Processing : [44, 43, 43, 42, 35]
+Found Max difference violation: [43, 43]
+Found Max difference violation: [42, 35]
+
+
+Processing : [72, 71, 67, 64, 62]
+Found Breaking Violation: [71, 67]
+
+
+Processing : [53, 51, 49, 45, 47]
+Found Breaking Violation: [49, 45]
+
+
+Processing : [33, 32, 31, 27, 25, 23, 22, 22]
+Found Breaking Violation: [31, 27]
+
+
+Processing : [88, 85, 84, 80, 76]
+Found Breaking Violation: [84, 80]
+
+
+Processing : [83, 81, 80, 76, 75, 74, 73, 66]
+Found Breaking Violation: [80, 76]
+
+
+Processing : [49, 46, 43, 41, 40, 35, 34, 31]
+Found Breaking Violation: [40, 35]
+
+
+Processing : [92, 90, 87, 80, 77, 75, 72, 74]
+Found Breaking Violation: [87, 80]
+
+
+Processing : [84, 82, 80, 79, 72, 71, 69, 69]
+Found Breaking Violation: [79, 72]
+
+
+Processing : [83, 80, 79, 77, 76, 71, 70, 66]
+Found Breaking Violation: [76, 71]
+
+
+Processing : [50, 49, 48, 45, 38, 37, 30]
+Found Breaking Violation: [45, 38]
+
+
+Processing : [86, 89, 87, 85, 83, 82]
+Found change violation: [89, 87]
+
+
+Processing : [59, 62, 61, 59, 56, 59]
+Found change violation: [62, 61]
+Found change violation: [56, 59]
+
+
+Processing : [20, 22, 20, 18, 18]
+Found change violation: [22, 20]
+Found Max difference violation: [18, 18]
+
+
+Processing : [77, 80, 79, 76, 73, 71, 67]
+Found change violation: [80, 79]
+Found Max difference violation: [71, 67]
+
+
+Processing : [83, 85, 84, 81, 80, 77, 74, 67]
+Found change violation: [85, 84]
+Found Max difference violation: [74, 67]
+
+
+Processing : [25, 28, 30, 27, 24]
+Found change violation: [30, 27]
+
+
+Processing : [50, 51, 48, 47, 45, 47, 46, 47]
+Found change violation: [51, 48]
+Found change violation: [45, 47]
+Found change violation: [46, 47]
+
+
+Processing : [83, 84, 82, 85, 82, 80, 80]
+Found change violation: [84, 82]
+Found change violation: [85, 82]
+Found Max difference violation: [80, 80]
+
+
+Processing : [70, 72, 69, 70, 66]
+Found change violation: [72, 69]
+Found Max difference violation: [70, 66]
+Found change violation: [70, 66]
+
+
+Processing : [80, 83, 82, 84, 82, 79, 74]
+Found change violation: [83, 82]
+Found change violation: [84, 82]
+Found Max difference violation: [79, 74]
+
+
+Processing : [29, 32, 31, 30, 30, 29, 26]
+Found change violation: [32, 31]
+Found Max difference violation: [30, 30]
+
+
+Processing : [72, 74, 71, 70, 70, 69, 70]
+Found change violation: [74, 71]
+Found Max difference violation: [70, 70]
+Found change violation: [69, 70]
+
+
+Processing : [93, 94, 91, 91, 91]
+Found change violation: [94, 91]
+Found Max difference violation: [91, 91]
+Found Max difference violation: [91, 91]
+
+
+Processing : [44, 45, 43, 41, 38, 36, 36, 32]
+Found change violation: [45, 43]
+Found Max difference violation: [36, 36]
+Found Max difference violation: [36, 32]
+
+
+Processing : [22, 25, 22, 22, 19, 12]
+Found change violation: [25, 22]
+Found Max difference violation: [22, 22]
+Found Max difference violation: [19, 12]
+
+
+Processing : [18, 21, 19, 15, 13, 12, 11]
+Found change violation: [21, 19]
+Found Breaking Violation: [19, 15]
+
+
+Processing : [75, 78, 75, 73, 71, 68, 64, 66]
+Found change violation: [78, 75]
+Found Breaking Violation: [68, 64]
+
+
+Processing : [77, 80, 76, 73, 73]
+Found Breaking Violation: [80, 76]
+
+
+Processing : [41, 43, 40, 36, 32]
+Found change violation: [43, 40]
+Found Breaking Violation: [40, 36]
+
+
+Processing : [43, 46, 45, 44, 40, 37, 32]
+Found change violation: [46, 45]
+Found Breaking Violation: [44, 40]
+
+
+Processing : [13, 14, 12, 5, 2]
+Found change violation: [14, 12]
+Found Breaking Violation: [12, 5]
+
+
+Processing : [72, 73, 72, 70, 63, 65]
+Found change violation: [73, 72]
+Found Breaking Violation: [70, 63]
+
+
+Processing : [37, 39, 37, 34, 28, 26, 23, 23]
+Found change violation: [39, 37]
+Found Breaking Violation: [34, 28]
+
+
+Processing : [54, 55, 54, 51, 48, 42, 40, 36]
+Found change violation: [55, 54]
+Found Breaking Violation: [48, 42]
+
+
+Processing : [56, 58, 51, 50, 45]
+Found Breaking Violation: [58, 51]
+
+
+Processing : [19, 19, 17, 15, 13, 12]
+Found Max difference violation: [19, 19]
+
+
+Processing : [14, 14, 12, 9, 6, 3, 1, 2]
+Found Max difference violation: [14, 14]
+Found change violation: [1, 2]
+
+
+Processing : [85, 85, 82, 80, 78, 78]
+Found Max difference violation: [85, 85]
+Found Max difference violation: [78, 78]
+
+
+Processing : [64, 64, 61, 58, 56, 54, 51, 47]
+Found Max difference violation: [64, 64]
+Found Max difference violation: [51, 47]
+
+
+Processing : [30, 30, 29, 27, 21]
+Found Max difference violation: [30, 30]
+Found Max difference violation: [27, 21]
+
+
+Processing : [68, 68, 67, 69, 66, 65]
+Found Max difference violation: [68, 68]
+Found change violation: [67, 69]
+
+
+Processing : [21, 21, 20, 19, 18, 21, 22]
+Found Max difference violation: [21, 21]
+Found change violation: [18, 21]
+
+
+Processing : [57, 57, 55, 58, 56, 56]
+Found Max difference violation: [57, 57]
+Found change violation: [55, 58]
+Found Max difference violation: [56, 56]
+
+
+Processing : [71, 71, 69, 66, 69, 67, 63]
+Found Max difference violation: [71, 71]
+Found change violation: [66, 69]
+Found Max difference violation: [67, 63]
+
+
+Processing : [49, 49, 47, 49, 47, 45, 40]
+Found Max difference violation: [49, 49]
+Found change violation: [47, 49]
+Found Max difference violation: [45, 40]
+
+
+Processing : [78, 78, 76, 76, 75]
+Found Max difference violation: [78, 78]
+Found Max difference violation: [76, 76]
+
+
+Processing : [26, 26, 25, 25, 24, 27]
+Found Max difference violation: [26, 26]
+Found Max difference violation: [25, 25]
+Found change violation: [24, 27]
+
+
+Processing : [90, 90, 90, 88, 88]
+Found Max difference violation: [90, 90]
+Found Max difference violation: [90, 90]
+Found Max difference violation: [88, 88]
+
+
+Processing : [81, 81, 78, 78, 76, 75, 71]
+Found Max difference violation: [81, 81]
+Found Max difference violation: [78, 78]
+Found Max difference violation: [75, 71]
+
+
+Processing : [26, 26, 23, 23, 21, 19, 13]
+Found Max difference violation: [26, 26]
+Found Max difference violation: [23, 23]
+Found Max difference violation: [19, 13]
+
+
+Processing : [59, 59, 56, 54, 50, 47, 44]
+Found Max difference violation: [59, 59]
+Found Breaking Violation: [54, 50]
+
+
+Processing : [60, 60, 57, 53, 56]
+Found Max difference violation: [60, 60]
+Found Breaking Violation: [57, 53]
+
+
+Processing : [37, 37, 36, 35, 31, 31]
+Found Max difference violation: [37, 37]
+Found Breaking Violation: [35, 31]
+
+
+Processing : [37, 37, 36, 34, 30, 29, 25]
+Found Max difference violation: [37, 37]
+Found Breaking Violation: [34, 30]
+
+
+Processing : [47, 47, 45, 41, 34]
+Found Max difference violation: [47, 47]
+Found Breaking Violation: [45, 41]
+
+
+Processing : [18, 18, 13, 10, 8, 6, 3]
+Found Max difference violation: [18, 18]
+Found Breaking Violation: [18, 13]
+
+
+Processing : [96, 96, 95, 89, 92]
+Found Max difference violation: [96, 96]
+Found Breaking Violation: [95, 89]
+
+
+Processing : [84, 84, 82, 77, 77]
+Found Max difference violation: [84, 84]
+Found Breaking Violation: [82, 77]
+
+
+Processing : [67, 67, 66, 61, 60, 57, 53]
+Found Max difference violation: [67, 67]
+Found Breaking Violation: [66, 61]
+
+
+Processing : [20, 20, 14, 12, 6]
+Found Max difference violation: [20, 20]
+Found Breaking Violation: [20, 14]
+
+
+Processing : [33, 29, 27, 24, 21, 19]
+Found Max difference violation: [33, 29]
+
+
+Processing : [12, 8, 6, 4, 1, 3]
+Found Max difference violation: [12, 8]
+Found change violation: [1, 3]
+
+
+Processing : [35, 31, 28, 26, 26]
+Found Max difference violation: [35, 31]
+Found Max difference violation: [26, 26]
+
+
+Processing : [66, 62, 60, 58, 54]
+Found Max difference violation: [66, 62]
+Found Max difference violation: [58, 54]
+
+
+Processing : [92, 88, 87, 86, 85, 83, 82, 75]
+Found Max difference violation: [92, 88]
+Found Max difference violation: [82, 75]
+
+
+Processing : [91, 87, 84, 87, 85, 82, 80]
+Found Max difference violation: [91, 87]
+Found change violation: [84, 87]
+
+
+Processing : [24, 20, 19, 22, 19, 16, 15, 17]
+Found Max difference violation: [24, 20]
+Found change violation: [19, 22]
+Found change violation: [15, 17]
+
+
+Processing : [60, 56, 58, 55, 52, 51, 51]
+Found Max difference violation: [60, 56]
+Found change violation: [56, 58]
+Found Max difference violation: [51, 51]
+
+
+Processing : [24, 20, 21, 20, 16]
+Found Max difference violation: [24, 20]
+Found change violation: [20, 21]
+Found Max difference violation: [20, 16]
+
+
+Processing : [34, 30, 28, 30, 29, 27, 20]
+Found Max difference violation: [34, 30]
+Found change violation: [28, 30]
+Found Max difference violation: [27, 20]
+
+
+Processing : [97, 93, 92, 92, 89, 87]
+Found Max difference violation: [97, 93]
+Found Max difference violation: [92, 92]
+
+
+Processing : [48, 44, 43, 43, 40, 39, 42]
+Found Max difference violation: [48, 44]
+Found Max difference violation: [43, 43]
+Found change violation: [39, 42]
+
+
+Processing : [81, 77, 74, 74, 71, 71]
+Found Max difference violation: [81, 77]
+Found Max difference violation: [74, 74]
+Found Max difference violation: [71, 71]
+
+
+Processing : [81, 77, 76, 75, 72, 69, 69, 65]
+Found Max difference violation: [81, 77]
+Found Max difference violation: [69, 69]
+Found Max difference violation: [69, 65]
+
+
+Processing : [44, 40, 40, 37, 35, 28]
+Found Max difference violation: [44, 40]
+Found Max difference violation: [40, 40]
+Found Max difference violation: [35, 28]
+
+
+Processing : [93, 89, 87, 83, 80, 77]
+Found Max difference violation: [93, 89]
+Found Breaking Violation: [87, 83]
+
+
+Processing : [81, 77, 75, 74, 70, 72]
+Found Max difference violation: [81, 77]
+Found Breaking Violation: [74, 70]
+
+
+Processing : [86, 82, 78, 76, 76]
+Found Max difference violation: [86, 82]
+Found Breaking Violation: [82, 78]
+
+
+Processing : [92, 88, 84, 83, 81, 79, 77, 73]
+Found Max difference violation: [92, 88]
+Found Breaking Violation: [88, 84]
+
+
+Processing : [38, 34, 30, 28, 22]
+Found Max difference violation: [38, 34]
+Found Breaking Violation: [34, 30]
+
+
+Processing : [74, 70, 68, 67, 64, 58, 57, 55]
+Found Max difference violation: [74, 70]
+Found Breaking Violation: [64, 58]
+
+
+Processing : [92, 88, 83, 82, 80, 83]
+Found Max difference violation: [92, 88]
+Found Breaking Violation: [88, 83]
+
+
+Processing : [63, 59, 53, 52, 51, 48, 48]
+Found Max difference violation: [63, 59]
+Found Breaking Violation: [59, 53]
+
+
+Processing : [56, 52, 46, 44, 43, 39]
+Found Max difference violation: [56, 52]
+Found Breaking Violation: [52, 46]
+
+
+Processing : [59, 55, 50, 48, 45, 39]
+Found Max difference violation: [59, 55]
+Found Breaking Violation: [55, 50]
+
+
+Processing : [77, 70, 67, 65, 62, 60, 57]
+Found Max difference violation: [77, 70]
+
+
+Processing : [64, 58, 55, 52, 49, 51]
+Found Max difference violation: [64, 58]
+Found change violation: [49, 51]
+
+
+Processing : [71, 66, 65, 63, 63]
+Found Max difference violation: [71, 66]
+Found Max difference violation: [63, 63]
+
+
+Processing : [32, 26, 23, 22, 21, 17]
+Found Max difference violation: [32, 26]
+Found Max difference violation: [21, 17]
+
+
+Processing : [80, 73, 70, 67, 61]
+Found Max difference violation: [80, 73]
+Found Max difference violation: [67, 61]
+
+
+Processing : [80, 73, 71, 68, 70, 68, 66]
+Found Max difference violation: [80, 73]
+Found change violation: [68, 70]
+
+
+Processing : [94, 88, 86, 88, 87, 86, 85, 87]
+Found Max difference violation: [94, 88]
+Found change violation: [86, 88]
+Found change violation: [85, 87]
+
+
+Processing : [69, 64, 66, 65, 64, 61, 60, 60]
+Found Max difference violation: [69, 64]
+Found change violation: [64, 66]
+Found Max difference violation: [60, 60]
+
+
+Processing : [39, 32, 34, 33, 29]
+Found Max difference violation: [39, 32]
+Found change violation: [32, 34]
+Found Max difference violation: [33, 29]
+
+
+Processing : [55, 50, 52, 49, 43]
+Found Max difference violation: [55, 50]
+Found change violation: [50, 52]
+Found Max difference violation: [49, 43]
+
+
+Processing : [96, 90, 88, 85, 84, 84, 81, 79]
+Found Max difference violation: [96, 90]
+Found Max difference violation: [84, 84]
+
+
+Processing : [52, 46, 43, 41, 39, 36, 36, 38]
+Found Max difference violation: [52, 46]
+Found Max difference violation: [36, 36]
+
+
+Processing : [18, 13, 10, 10, 9, 7, 7]
+Found Max difference violation: [18, 13]
+Found Max difference violation: [10, 10]
+Found Max difference violation: [7, 7]
+
+
+Processing : [50, 43, 40, 38, 35, 35, 32, 28]
+Found Max difference violation: [50, 43]
+Found Max difference violation: [35, 35]
+Found Max difference violation: [32, 28]
+
+
+Processing : [72, 65, 64, 63, 63, 57]
+Found Max difference violation: [72, 65]
+Found Max difference violation: [63, 63]
+Found Max difference violation: [63, 57]
+
+
+Processing : [22, 16, 13, 11, 7, 4]
+Found Max difference violation: [22, 16]
+Found Breaking Violation: [11, 7]
+
+
+Processing : [39, 33, 29, 27, 26, 28]
+Found Max difference violation: [39, 33]
+Found Breaking Violation: [33, 29]
+
+
+Processing : [92, 86, 85, 83, 79, 79]
+Found Max difference violation: [92, 86]
+Found Breaking Violation: [83, 79]
+
+
+Processing : [31, 26, 25, 21, 20, 18, 14]
+Found Max difference violation: [31, 26]
+Found Breaking Violation: [25, 21]
+
+
+Processing : [83, 78, 76, 74, 73, 69, 66, 59]
+Found Max difference violation: [83, 78]
+Found Breaking Violation: [73, 69]
+
+
+Processing : [33, 28, 25, 20, 19, 17]
+Found Max difference violation: [33, 28]
+Found Breaking Violation: [25, 20]
+
+
+Processing : [84, 77, 70, 67, 69]
+Found Max difference violation: [84, 77]
+Found Breaking Violation: [77, 70]
+
+
+Processing : [49, 43, 42, 41, 34, 31, 31]
+Found Max difference violation: [49, 43]
+Found Breaking Violation: [41, 34]
+
+
+Processing : [86, 81, 78, 75, 69, 65]
+Found Max difference violation: [86, 81]
+Found Breaking Violation: [75, 69]
+
+
+Processing : [63, 57, 54, 47, 44, 39]
+Found Max difference violation: [63, 57]
+Found Breaking Violation: [54, 47]
+
+
+Processing : [92, 89, 88, 89, 87, 85]
+Found change violation: [88, 89]
+
+
+Processing : [21, 21, 22, 20, 22, 25, 28]
+Found Max difference violation: [21, 21]
+Found change violation: [22, 20]
+
+
+Processing : [77, 73, 71, 68, 67, 69, 71]
+Found Max difference violation: [77, 73]
+Found change violation: [67, 69]
+
+
+Processing : [56, 54, 55, 53, 55, 57, 55]
+Found change violation: [54, 55]
+Found change violation: [53, 55]
+Found change violation: [57, 55]
+
+
+Processing : [96, 98, 98, 96, 93, 91, 88]
+Found Max difference violation: [98, 98]
+
+
+Processing : [58, 58, 56, 55, 51, 50, 46]
+Found Max difference violation: [58, 58]
+Found Breaking Violation: [55, 51]
+
+
+Processing : [93, 89, 83, 80, 79, 74]
+Found Max difference violation: [93, 89]
+Found Breaking Violation: [89, 83]
+
+
+Processing : [41, 41, 43, 49, 50, 54]
+Found Max difference violation: [41, 41]
+Found Breaking Violation: [43, 49]
+
+
+Processing : [43, 45, 46, 49, 52, 56]
+Found Max difference violation: [52, 56]
+
+
+Processing : [23, 21, 16, 13, 15]
+Found Breaking Violation: [21, 16]
+
+
+Processing : [36, 30, 30, 27, 23]
+Found Max difference violation: [36, 30]
+Found Max difference violation: [30, 30]
+Found Max difference violation: [27, 23]
+
+
+Processing : [46, 39, 38, 36, 35, 34, 31]
+Found Max difference violation: [46, 39]
+
+
+Processing : [4, 8, 13, 15, 19]
+Found Max difference violation: [4, 8]
+Found Breaking Violation: [8, 13]
+
+
+Processing : [69, 69, 68, 65, 59, 58, 54]
+Found Max difference violation: [69, 69]
+Found Breaking Violation: [65, 59]
+
+
+Processing : [40, 34, 33, 30, 26, 24, 20]
+Found Max difference violation: [40, 34]
+Found Breaking Violation: [30, 26]
+
+
+Processing : [53, 54, 52, 48, 47]
+Found change violation: [54, 52]
+Found Breaking Violation: [52, 48]
+
+
+Processing : [72, 75, 77, 75, 72, 71, 70]
+Found change violation: [77, 75]
+
+
+Processing : [34, 32, 34, 35, 38, 41, 44, 44]
+Found change violation: [32, 34]
+Found Max difference violation: [44, 44]
+
+
+Processing : [14, 11, 10, 11, 18]
+Found change violation: [10, 11]
+Found Max difference violation: [11, 18]
+
+
+Processing : [29, 31, 28, 23, 22, 20, 19, 22]
+Found change violation: [31, 28]
+Found Breaking Violation: [28, 23]
+
+
+Processing : [60, 64, 66, 69, 72, 74, 76, 77]
+Found Max difference violation: [60, 64]
+
+
+Processing : [30, 27, 28, 30, 30, 34]
+Found change violation: [27, 28]
+Found Max difference violation: [30, 30]
+Found Max difference violation: [30, 34]
+
+
+Processing : [24, 24, 25, 29, 30, 33, 37]
+Found Max difference violation: [24, 24]
+Found Breaking Violation: [25, 29]
+
+
+Processing : [64, 63, 65, 66, 68, 70, 72, 71]
+Found change violation: [63, 65]
+Found change violation: [72, 71]
+
+
+Processing : [52, 51, 48, 47, 41]
+Found Max difference violation: [47, 41]
+
+
+Processing : [15, 15, 14, 12, 10, 7, 2]
+Found Max difference violation: [15, 15]
+Found Max difference violation: [7, 2]
+
+
+Processing : [78, 75, 77, 81, 80]
+Found change violation: [75, 77]
+Found Breaking Violation: [77, 81]
+
+
+Processing : [11, 8, 9, 10, 12]
+Found change violation: [8, 9]
+
+
+Processing : [89, 90, 88, 85, 84, 81, 76]
+Found change violation: [90, 88]
+Found Max difference violation: [81, 76]
+
+
+Processing : [16, 20, 20, 22, 24, 27, 30, 35]
+Found Max difference violation: [16, 20]
+Found Max difference violation: [20, 20]
+Found Max difference violation: [30, 35]
+
+
+Processing : [51, 58, 62, 64, 65, 69]
+Found Max difference violation: [51, 58]
+Found Breaking Violation: [58, 62]
+
+
+Processing : [80, 84, 85, 87, 88, 92, 97]
+Found Max difference violation: [80, 84]
+Found Breaking Violation: [88, 92]
+
+
+Processing : [61, 61, 65, 66, 69, 71, 72]
+Found Max difference violation: [61, 61]
+Found Breaking Violation: [61, 65]
+
+
+Processing : [27, 27, 28, 29, 30, 32, 35, 32]
+Found Max difference violation: [27, 27]
+Found change violation: [35, 32]
+
+
+Processing : [54, 51, 48, 47, 47, 46, 43, 39]
+Found Max difference violation: [47, 47]
+Found Max difference violation: [43, 39]
+
+
+Processing : [25, 22, 21, 18, 11, 8, 5]
+Found Breaking Violation: [18, 11]
+
+
+Processing : [86, 88, 91, 92, 93]
+
+
+Processing : [48, 51, 54, 57, 58, 61, 64, 66]
+
+
+Processing : [98, 96, 94, 91, 89]
+
+
+Processing : [14, 16, 18, 21, 24, 26]
+
+
+Processing : [27, 30, 32, 34, 37, 40, 41, 43]
+
+
+Processing : [79, 80, 81, 83, 86, 87]
+
+
+Processing : [96, 94, 93, 90, 87]
+
+
+Processing : [68, 71, 74, 75, 78, 80, 83, 85]
+
+
+Processing : [59, 61, 64, 66, 68, 70, 72]
+
+
+Processing : [24, 26, 29, 31, 33, 35, 38]
+
+
+Processing : [45, 47, 49, 50, 53, 55]
+
+
+Processing : [15, 18, 20, 23, 24]
+
+
+Processing : [96, 93, 91, 90, 89, 87, 85]
+
+
+Processing : [51, 54, 55, 58, 61, 62, 65, 66]
+
+
+Processing : [85, 83, 81, 79, 76]
+
+
+Processing : [63, 66, 68, 70, 73, 76, 79]
+
+
+Processing : [44, 42, 40, 38, 35, 34, 33, 30]
+
+
+Processing : [61, 63, 64, 65, 66, 69]
+
+
+Processing : [26, 27, 29, 32, 35, 38, 39]
+
+
+Processing : [36, 39, 41, 42, 43]
+
+
+Processing : [83, 82, 81, 80, 79, 78, 75]
+
+
+Processing : [42, 41, 38, 35, 34, 31, 30, 28]
+
+
+Processing : [27, 28, 30, 32, 35, 37, 38, 40]
+
+
+Processing : [82, 81, 78, 76, 74, 72, 70, 69]
+
+
+Processing : [80, 78, 76, 74, 71, 69, 68]
+
+
+Processing : [90, 93, 96, 98, 99]
+
+
+Processing : [6, 9, 11, 14, 17]
+
+
+Processing : [59, 58, 56, 54, 52]
+
+
+Processing : [85, 87, 89, 90, 91]
+
+
+Processing : [49, 46, 43, 40, 39, 36]
+
+
+Processing : [25, 27, 30, 32, 34]
+
+
+Processing : [87, 86, 83, 81, 78, 75]
+
+
+Processing : [65, 66, 67, 68, 69, 71]
+
+
+Processing : [18, 17, 16, 13, 11, 8, 6, 3]
+
+
+Processing : [27, 25, 23, 22, 21, 20, 17]
+
+
+Processing : [45, 43, 41, 38, 35, 33, 31]
+
+
+Processing : [67, 69, 71, 73, 75]
+
+
+Processing : [23, 21, 20, 19, 18, 16, 15, 14]
+
+
+Processing : [6, 9, 11, 14, 16]
+
+
+Processing : [15, 18, 19, 22, 23, 26]
+
+
+Processing : [4, 7, 8, 10, 13]
+
+
+Processing : [43, 44, 46, 47, 48]
+
+
+Processing : [39, 37, 35, 32, 30, 27, 26, 25]
+
+
+Processing : [53, 55, 56, 59, 61, 64, 66]
+
+
+Processing : [33, 36, 39, 40, 43, 46, 49, 51]
+
+
+Processing : [91, 93, 95, 96, 97, 98, 99]
+
+
+Processing : [17, 15, 12, 11, 8, 6, 3]
+
+
+Processing : [54, 57, 59, 62, 65, 68]
+
+
+Processing : [44, 47, 50, 51, 53, 55]
+
+
+Processing : [47, 48, 51, 54, 57, 60, 62]
+
+
+Processing : [69, 67, 64, 63, 61, 58, 56, 55]
+
+
+Processing : [84, 85, 86, 88, 89, 90, 91]
+
+
+Processing : [77, 76, 74, 73, 70]
+
+
+Processing : [87, 86, 85, 82, 81]
+
+
+Processing : [83, 82, 79, 77, 76, 74, 72]
+
+
+Processing : [53, 51, 49, 48, 46, 44, 41]
+
+
+Processing : [50, 48, 46, 44, 43, 40, 37]
+
+
+Processing : [27, 25, 23, 21, 20, 19, 17]
+
+
+Processing : [74, 76, 78, 81, 82, 84, 87]
+
+
+Processing : [79, 76, 75, 72, 69]
+
+
+Processing : [53, 51, 50, 47, 45]
+
+
+Processing : [37, 35, 32, 31, 30, 28, 27]
+
+
+Processing : [40, 38, 37, 35, 32, 29, 27, 26]
+
+
+Processing : [61, 64, 66, 69, 72, 75, 77]
+
+
+Processing : [67, 66, 63, 62, 59, 56]
+
+
+Processing : [39, 42, 44, 45, 48, 50, 52]
+
+
+Processing : [8, 7, 6, 5, 2]
+
+
+Processing : [84, 82, 81, 79, 76, 75]
+
+
+Processing : [96, 94, 92, 90, 88, 85, 83, 81]
+
+
+Processing : [60, 63, 64, 67, 69]
+
+
+Processing : [63, 65, 67, 70, 73]
+
+
+Processing : [64, 65, 66, 69, 71]
+
+
+Processing : [12, 13, 16, 17, 18, 19, 20]
+
+
+Processing : [54, 57, 59, 62, 64, 65]
+
+
+Processing : [69, 67, 66, 63, 61, 60, 58, 57]
+
+
+Processing : [52, 51, 50, 48, 46]
+
+
+Processing : [31, 28, 27, 25, 22, 19, 18]
+
+
+Processing : [25, 24, 22, 20, 17, 16, 15, 13]
+
+
+Processing : [14, 12, 10, 8, 7, 5]
+
+
+Processing : [12, 14, 17, 18, 19, 21, 22]
+
+
+Processing : [19, 18, 16, 14, 11, 8, 6, 4]
+
+
+Processing : [94, 92, 89, 88, 86]
+
+
+Processing : [31, 28, 27, 25, 22]
+
+
+Processing : [51, 50, 49, 47, 45, 43, 40, 39]
+
+
+Processing : [19, 18, 15, 14, 12]
+
+
+Processing : [11, 12, 14, 15, 18, 20]
+
+
+Processing : [69, 67, 65, 64, 61, 59, 57, 54]
+
+
+Processing : [94, 93, 91, 90, 87]
+
+
+Processing : [76, 75, 72, 69, 68, 65, 63, 60]
+
+
+Processing : [65, 67, 68, 70, 71, 74]
+
+
+Processing : [87, 85, 84, 81, 79, 78, 75]
+
+
+Processing : [78, 75, 73, 71, 70, 67, 66]
+
+
+Processing : [72, 74, 77, 79, 82, 83]
+
+
+Processing : [24, 25, 27, 28, 29, 32, 35, 36]
+
+
+Processing : [88, 86, 85, 82, 80, 78, 75, 73]
+
+
+Processing : [48, 46, 44, 41, 40]
+
+
+Processing : [77, 79, 80, 83, 85, 86]
+
+
+Processing : [22, 25, 28, 31, 33, 34, 37]
+
+
+Processing : [78, 75, 74, 72, 69, 67, 64]
+
+
+Processing : [37, 40, 43, 45, 48, 51, 54, 57]
+
+
+Processing : [50, 52, 54, 57, 59, 61]
+
+
+Processing : [57, 60, 63, 64, 67, 68]
+
+
+Processing : [77, 76, 75, 73, 71]
+
+
+Processing : [83, 82, 81, 79, 76, 73]
+
+
+Processing : [11, 14, 15, 16, 17, 19, 20, 21]
+
+
+Processing : [15, 14, 11, 9, 8, 5]
+
+
+Processing : [63, 62, 59, 56, 54, 51]
+
+
+Processing : [14, 13, 10, 8, 6, 3]
+
+
+Processing : [31, 29, 26, 23, 21, 19]
+
+
+Processing : [69, 68, 66, 64, 62, 61, 58, 56]
+
+
+Processing : [8, 10, 11, 14, 15, 18]
+
+
+Processing : [34, 31, 30, 28, 25]
+
+
+Processing : [59, 58, 56, 55, 54, 52, 51]
+
+
+Processing : [61, 62, 64, 67, 69]
+
+
+Processing : [87, 90, 91, 94, 95, 96, 97]
+
+
+Processing : [18, 19, 22, 23, 25, 27]
+
+
+Processing : [66, 67, 70, 71, 73, 75, 76]
+
+
+Processing : [98, 95, 93, 92, 89, 87]
+
+
+Processing : [18, 15, 14, 12, 10]
+
+
+Processing : [91, 90, 87, 85, 84, 82]
+
+
+Processing : [96, 95, 92, 90, 89]
+
+
+Processing : [18, 17, 14, 11, 8, 5]
+
+
+Processing : [28, 31, 32, 33, 35, 38, 41, 43]
+
+
+Processing : [27, 26, 25, 23, 20, 17]
+
+
+Processing : [54, 52, 51, 50, 48, 46, 45, 43]
+
+
+Processing : [96, 93, 92, 91, 88, 85, 82]
+
+
+Processing : [81, 84, 85, 88, 90]
+
+
+Processing : [30, 29, 26, 25, 23, 20, 19, 16]
+
+
+Processing : [12, 14, 17, 20, 22, 24, 27, 28]
+
+
+Processing : [61, 59, 57, 56, 54, 52]
+
+
+Processing : [57, 60, 61, 63, 64, 67]
+
+
+Processing : [33, 34, 37, 39, 41]
+
+
+Processing : [29, 31, 34, 36, 37]
+
+
+Processing : [58, 59, 61, 63, 66, 68, 69]
+
+
+Processing : [30, 31, 33, 35, 36]
+
+
+Processing : [64, 63, 60, 58, 57, 55, 52]
+
+
+Processing : [40, 43, 46, 47, 49, 51]
+
+
+Processing : [22, 19, 16, 15, 12, 10]
+
+
+Processing : [41, 40, 38, 36, 33]
+
+
+Processing : [77, 78, 79, 81, 82, 83, 86]
+
+
+Processing : [51, 50, 47, 46, 43, 40, 39, 38]
+
+
+Processing : [59, 62, 63, 65, 68, 71, 73]
+
+
+Processing : [58, 61, 64, 66, 69, 71]
+
+
+Processing : [28, 27, 26, 23, 20, 18, 15]
+
+
+Processing : [29, 26, 24, 23, 20, 19, 18, 15]
+
+
+Processing : [89, 90, 92, 93, 94]
+
+
+Processing : [75, 73, 72, 71, 68]
+
+
+Processing : [35, 32, 29, 27, 24, 22, 19, 18]
+
+
+Processing : [44, 43, 40, 39, 37, 36, 33, 31]
+
+
+Processing : [98, 97, 96, 94, 93, 91, 90, 89]
+
+
+Processing : [53, 51, 49, 46, 44, 41, 38]
+
+
+Processing : [76, 77, 78, 79, 80, 83, 84]
+
+
+Processing : [84, 86, 89, 92, 93, 96]
+
+
+Processing : [31, 34, 35, 37, 40, 41]
+
+
+Processing : [12, 11, 9, 6, 4, 3, 2, 1]
+
+
+Processing : [80, 83, 86, 89, 91, 94, 95, 98]
+
+
+Processing : [17, 18, 19, 20, 22, 24]
+
+
+Processing : [20, 23, 24, 26, 27, 30]
+
+
+Processing : [61, 60, 59, 58, 56, 54, 51]
+
+
+Processing : [10, 8, 5, 3, 1]
+
+
+Processing : [39, 37, 34, 33, 31, 28, 25]
+
+
+Processing : [83, 82, 80, 78, 77, 74, 71, 68]
+
+
+Processing : [70, 67, 64, 61, 60]
+
+
+Processing : [82, 84, 87, 90, 91, 92, 95]
+
+
+Processing : [11, 13, 15, 18, 20, 23, 24]
+
+
+Processing : [87, 84, 82, 80, 77, 76, 75, 72]
+
+
+Processing : [47, 44, 41, 39, 36, 33]
+
+
+Processing : [9, 12, 13, 14, 15, 18]
+
+
+Processing : [24, 22, 20, 18, 17]
+
+
+Processing : [77, 80, 81, 83, 86, 87, 90, 91]
+
+
+Processing : [54, 55, 57, 58, 60, 63]
+
+
+Processing : [30, 27, 25, 22, 21, 19, 16]
+
+
+Processing : [35, 33, 32, 31, 30]
+
+
+Processing : [31, 28, 25, 22, 20, 19, 18]
+
+
+Processing : [29, 31, 32, 33, 35]
+
+
+Processing : [72, 75, 78, 80, 83, 85, 86]
+
+
+Processing : [82, 80, 78, 77, 74]
+
+
+Processing : [20, 18, 15, 12, 10, 7, 6]
+
+
+Processing : [38, 41, 43, 46, 49, 50, 51]
+
+
+Processing : [52, 54, 57, 60, 62]
+
+
+Processing : [57, 59, 60, 61, 63, 64, 67, 70]
+
+
+Processing : [11, 12, 15, 16, 18]
+
+
+Processing : [2, 4, 6, 7, 9, 12]
+
+
+Processing : [36, 38, 40, 41, 44]
+
+
+Processing : [22, 25, 27, 30, 32, 34, 36, 39]
+
+
+Processing : [71, 72, 73, 76, 79, 80]
+
+
+Processing : [68, 71, 72, 75, 78, 81, 84, 86]
+
+
+Processing : [69, 70, 73, 76, 78, 80]
+
+
+Processing : [40, 38, 36, 33, 31, 28, 25, 23]
+
+
+Processing : [5, 6, 8, 10, 13, 16]
+
+
+Processing : [30, 28, 26, 25, 22]
+
+
+Processing : [30, 27, 26, 23, 21, 20]
+
+
+Processing : [19, 20, 22, 23, 25, 26, 28, 29]
+
+
+Processing : [74, 71, 69, 66, 63, 61]
+
+
+Processing : [22, 23, 25, 26, 28, 29, 31, 32]
+
+
+Processing : [9, 10, 12, 14, 15, 17, 20]
+
+
+Processing : [16, 14, 13, 12, 10]
+
+
+Processing : [91, 90, 89, 87, 85, 83, 81, 79]
+
+
+Processing : [56, 54, 53, 50, 48]
+
+
+Processing : [43, 42, 41, 40, 37, 34, 33, 31]
+
+
+Processing : [92, 89, 87, 85, 83, 82]
+
+
+Processing : [28, 26, 25, 24, 21, 18, 15]
+
+
+Processing : [73, 74, 76, 77, 78, 81]
+
+
+Processing : [89, 86, 83, 81, 80, 77, 74, 73]
+
+
+Processing : [34, 35, 38, 41, 42, 45, 48, 50]
+
+
+Processing : [18, 15, 12, 9, 8]
+
+
+Processing : [69, 67, 66, 64, 62, 60]
+
+
+Processing : [35, 37, 38, 39, 40, 41]
+
+
+Processing : [93, 94, 95, 97, 98]
+
+
+Processing : [48, 49, 52, 54, 55, 58, 59]
+
+
+Processing : [28, 29, 30, 32, 33, 34, 35, 37]
+
+
+Processing : [92, 90, 88, 86, 85, 84]
+
+
+Processing : [26, 27, 30, 33, 35, 38]
+
+
+Processing : [45, 47, 49, 52, 54, 57]
+
+
+Processing : [69, 68, 66, 63, 61, 60, 57]
+
+
+Processing : [69, 68, 66, 64, 63]
+
+
+Processing : [6, 7, 8, 11, 12, 14, 16, 19]
+
+
+Processing : [61, 63, 65, 66, 67, 70, 73, 75]
+
+
+Processing : [87, 85, 84, 82, 80]
+
+
+Processing : [93, 92, 91, 88, 87, 86, 85]
+Part 2: 295
