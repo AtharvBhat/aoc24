@@ -95,7 +95,6 @@ fn main() {
     let mut sum_1: u32 = 0;
     let mut sum_2: u32 = 0;
     for order in page_orders {
-        //println!("Processing: {:?}", order);
         //part 1
         if verify_order(&order, &rules) {
             sum_1 += order[order.len() / 2]
